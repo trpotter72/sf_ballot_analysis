@@ -1,0 +1,33 @@
+ELECTION	CONTESTID	CONTESTTITLE1	CONTESTTITLE2	NUMTOVOTFOR	TERMOFOFFICE	FILINGFEE	NUMOFCANDS	NUMQUALIFIEDCANDS	NUMTOVOTFOR	DECOFINTENT	FILINGEXTENSION	CANDSTMT	DISTRICTID	SUBDISTRICT	CONTESTPARTY
+November 8 2022 Consolidated General Election	1010	UNITED STATES SENATOR		1	6	3480	2	2	1	0	0	1	*0	0	
+November 8 2022 Consolidated General Election	1011	UNITED STATES SENATOR	PARTIAL TERM	1	6	0	2	2	1	0	0	0	*0	0	
+November 8 2022 Consolidated General Election	1019	US HOUSE OF REP	DISTRICT 2	1	2	0	2	2	1	0	0	0	CONG02	0	
+November 8 2022 Consolidated General Election	1021	US HOUSE OF REP	DISTRICT 11	1	2	0	2	2	1	0	0	0	CONG11	0	
+November 8 2022 Consolidated General Election	1022	US HOUSE OF REP	DISTRICT 12	1	2	0	2	2	1	0	0	0	CONG12	0	
+November 8 2022 Consolidated General Election	1023	US HOUSE OF REP	DISTRICT 15	1	2	0	2	2	1	0	0	0	CONG15	0	
+November 8 2022 Consolidated General Election	1128	STATE SENATOR	DISTRICT 2	1	4	0	2	2	1	0	0	0	SEN02	0	
+November 8 2022 Consolidated General Election	1212	STATE ASSEMBLY MEMBER	DISTRICT 12	0	2	0	2	2	0	0	0	0	ASSM12	0	
+November 8 2022 Consolidated General Election	1217	STATE ASSEMBLY MEMBER	DISTRICT 17	1	2	952.91	2	2	1	0	0	1	ASSM17	0	
+November 8 2022 Consolidated General Election	1218	STATE ASSEMBLY MEMBER	DISTRICT 18	1	2	0	2	2	1	0	0	0	ASSM18	0	
+November 8 2022 Consolidated General Election	1219	STATE ASSEMBLY MEMBER	DISTRICT 19	1	2	952.91	2	2	1	0	0	1	ASSM19	0	
+November 8 2022 Consolidated General Election	4000	GOVERNOR		1	4	3479.74	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4010	LIEUTENANT GOVERNOR		1	4	0	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4020	SECRETARY OF STATE		1	4	2609.8	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4030	CONTROLLER		1	4	2783.79	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4040	TREASURER		1	4	0	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4050	ATTORNEY GENERAL		1	4	3022.54	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4060	INSURANCE COMMISSIONER		1	4	2783.79	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	4070	BOARD OF EQUALIZATION		1	4	0	2	2	1	0	0	1	EQUAL2	0	
+November 8 2022 Consolidated General Election	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION		1	4	3022.54	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	5030	ASSESSOR-RECORDER		1	4	4183.66	1	1	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	5040	DISTRICT ATTORNEY		1	4	5886.18	4	4	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	5060	PUBLIC DEFENDER		1	4	5101.96	2	2	1	0	0	1	CITY1	0	
+November 8 2022 Consolidated General Election	5102	BOARD OF SUPERVISORS	DISTRICT 2	1	4	500	1	1	1	0	0	1	SUPV2	0	
+November 8 2022 Consolidated General Election	5104	BOARD OF SUPERVISORS	DISTRICT 4	1	4	500	3	3	1	0	0	1	SUPV4	0	
+November 8 2022 Consolidated General Election	5106	BOARD OF SUPERVISORS	DISTRICT 6	1	4	0	4	4	1	0	0	1	SUPV6	0	
+November 8 2022 Consolidated General Election	5108	BOARD OF SUPERVISORS	DISTRICT 8	1	4	500	2	2	1	0	0	1	SUPV8	0	
+November 8 2022 Consolidated General Election	5110	BOARD OF SUPERVISORS	DISTRICT 10	1	4	500	2	2	1	0	0	1	SUPV10	0	
+November 8 2022 Consolidated General Election	6020	BART DIRECTOR	DISTRICT 8	1	4	0	1	1	1	0	1	0	BART8	0	
+November 8 2022 Consolidated General Election	8520	MEMBER, BoE		3	4	500	6	6	3	0	1	1	CITY1	0	
+November 8 2022 Consolidated General Election	8540	MEMBER, CCB		3	4	500	10	10	3	0	1	1	CITY1	0	
+November 8 2022 Consolidated General Election	8560	MEMBER, CCB	S/T	1	1	500	3	3	1	0	1	1	CITY1	0	

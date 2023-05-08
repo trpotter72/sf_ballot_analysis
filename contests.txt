@@ -1,0 +1,1393 @@
+ELECTIONABBR	CONTESTID	CONTESTABBR1	CONTESTABBR2	BALLOTTYPE	ROTATION
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		1	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		2	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		3	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		4	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		5	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		6	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		7	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		8	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		9	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		10	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		11	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		12	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		13	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		14	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		15	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		16	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		17	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		18	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		19	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		20	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		21	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		22	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		23	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		24	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		25	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		26	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		27	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		28	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		29	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		30	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		31	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		32	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		33	
+2022NOVGEN	100	Retiree Supplemental Cost Of Living Adjustment; Retirement Board Contract With Executive Director		34	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		1	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		2	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		3	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		4	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		5	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		6	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		7	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		8	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		9	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		10	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		11	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		12	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		13	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		14	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		15	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		16	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		17	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		18	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		19	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		20	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		21	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		22	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		23	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		24	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		25	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		26	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		27	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		28	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		29	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		30	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		31	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		32	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		33	
+2022NOVGEN	101	Public Works Department And Commission, Sanitation And Streets Department And Commission		34	
+2022NOVGEN	102	Homelessness Oversight Commission		1	
+2022NOVGEN	102	Homelessness Oversight Commission		2	
+2022NOVGEN	102	Homelessness Oversight Commission		3	
+2022NOVGEN	102	Homelessness Oversight Commission		4	
+2022NOVGEN	102	Homelessness Oversight Commission		5	
+2022NOVGEN	102	Homelessness Oversight Commission		6	
+2022NOVGEN	102	Homelessness Oversight Commission		7	
+2022NOVGEN	102	Homelessness Oversight Commission		8	
+2022NOVGEN	102	Homelessness Oversight Commission		9	
+2022NOVGEN	102	Homelessness Oversight Commission		10	
+2022NOVGEN	102	Homelessness Oversight Commission		11	
+2022NOVGEN	102	Homelessness Oversight Commission		12	
+2022NOVGEN	102	Homelessness Oversight Commission		13	
+2022NOVGEN	102	Homelessness Oversight Commission		14	
+2022NOVGEN	102	Homelessness Oversight Commission		15	
+2022NOVGEN	102	Homelessness Oversight Commission		16	
+2022NOVGEN	102	Homelessness Oversight Commission		17	
+2022NOVGEN	102	Homelessness Oversight Commission		18	
+2022NOVGEN	102	Homelessness Oversight Commission		19	
+2022NOVGEN	102	Homelessness Oversight Commission		20	
+2022NOVGEN	102	Homelessness Oversight Commission		21	
+2022NOVGEN	102	Homelessness Oversight Commission		22	
+2022NOVGEN	102	Homelessness Oversight Commission		23	
+2022NOVGEN	102	Homelessness Oversight Commission		24	
+2022NOVGEN	102	Homelessness Oversight Commission		25	
+2022NOVGEN	102	Homelessness Oversight Commission		26	
+2022NOVGEN	102	Homelessness Oversight Commission		27	
+2022NOVGEN	102	Homelessness Oversight Commission		28	
+2022NOVGEN	102	Homelessness Oversight Commission		29	
+2022NOVGEN	102	Homelessness Oversight Commission		30	
+2022NOVGEN	102	Homelessness Oversight Commission		31	
+2022NOVGEN	102	Homelessness Oversight Commission		32	
+2022NOVGEN	102	Homelessness Oversight Commission		33	
+2022NOVGEN	102	Homelessness Oversight Commission		34	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		1	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		2	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		3	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		4	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		5	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		6	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		7	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		8	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		9	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		10	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		11	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		12	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		13	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		14	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		15	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		16	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		17	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		18	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		19	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		20	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		21	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		22	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		23	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		24	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		25	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		26	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		27	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		28	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		29	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		30	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		31	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		32	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		33	
+2022NOVGEN	103	Affordable Housing - Initiative Petition		34	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		1	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		2	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		3	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		4	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		5	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		6	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		7	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		8	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		9	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		10	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		11	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		12	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		13	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		14	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		15	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		16	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		17	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		18	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		19	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		20	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		21	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		22	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		23	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		24	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		25	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		26	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		27	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		28	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		29	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		30	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		31	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		32	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		33	
+2022NOVGEN	104	Affordable Housing - Board Of Supervisors		34	
+2022NOVGEN	105	Library Preservation Fund		1	
+2022NOVGEN	105	Library Preservation Fund		2	
+2022NOVGEN	105	Library Preservation Fund		3	
+2022NOVGEN	105	Library Preservation Fund		4	
+2022NOVGEN	105	Library Preservation Fund		5	
+2022NOVGEN	105	Library Preservation Fund		6	
+2022NOVGEN	105	Library Preservation Fund		7	
+2022NOVGEN	105	Library Preservation Fund		8	
+2022NOVGEN	105	Library Preservation Fund		9	
+2022NOVGEN	105	Library Preservation Fund		10	
+2022NOVGEN	105	Library Preservation Fund		11	
+2022NOVGEN	105	Library Preservation Fund		12	
+2022NOVGEN	105	Library Preservation Fund		13	
+2022NOVGEN	105	Library Preservation Fund		14	
+2022NOVGEN	105	Library Preservation Fund		15	
+2022NOVGEN	105	Library Preservation Fund		16	
+2022NOVGEN	105	Library Preservation Fund		17	
+2022NOVGEN	105	Library Preservation Fund		18	
+2022NOVGEN	105	Library Preservation Fund		19	
+2022NOVGEN	105	Library Preservation Fund		20	
+2022NOVGEN	105	Library Preservation Fund		21	
+2022NOVGEN	105	Library Preservation Fund		22	
+2022NOVGEN	105	Library Preservation Fund		23	
+2022NOVGEN	105	Library Preservation Fund		24	
+2022NOVGEN	105	Library Preservation Fund		25	
+2022NOVGEN	105	Library Preservation Fund		26	
+2022NOVGEN	105	Library Preservation Fund		27	
+2022NOVGEN	105	Library Preservation Fund		28	
+2022NOVGEN	105	Library Preservation Fund		29	
+2022NOVGEN	105	Library Preservation Fund		30	
+2022NOVGEN	105	Library Preservation Fund		31	
+2022NOVGEN	105	Library Preservation Fund		32	
+2022NOVGEN	105	Library Preservation Fund		33	
+2022NOVGEN	105	Library Preservation Fund		34	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		1	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		2	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		3	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		4	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		5	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		6	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		7	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		8	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		9	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		10	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		11	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		12	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		13	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		14	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		15	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		16	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		17	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		18	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		19	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		20	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		21	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		22	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		23	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		24	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		25	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		26	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		27	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		28	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		29	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		30	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		31	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		32	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		33	
+2022NOVGEN	106	Student Success Fund - Grants To The San Francisco Unified School District		34	
+2022NOVGEN	107	City Elections In Even-numbered Years		1	
+2022NOVGEN	107	City Elections In Even-numbered Years		2	
+2022NOVGEN	107	City Elections In Even-numbered Years		3	
+2022NOVGEN	107	City Elections In Even-numbered Years		4	
+2022NOVGEN	107	City Elections In Even-numbered Years		5	
+2022NOVGEN	107	City Elections In Even-numbered Years		6	
+2022NOVGEN	107	City Elections In Even-numbered Years		7	
+2022NOVGEN	107	City Elections In Even-numbered Years		8	
+2022NOVGEN	107	City Elections In Even-numbered Years		9	
+2022NOVGEN	107	City Elections In Even-numbered Years		10	
+2022NOVGEN	107	City Elections In Even-numbered Years		11	
+2022NOVGEN	107	City Elections In Even-numbered Years		12	
+2022NOVGEN	107	City Elections In Even-numbered Years		13	
+2022NOVGEN	107	City Elections In Even-numbered Years		14	
+2022NOVGEN	107	City Elections In Even-numbered Years		15	
+2022NOVGEN	107	City Elections In Even-numbered Years		16	
+2022NOVGEN	107	City Elections In Even-numbered Years		17	
+2022NOVGEN	107	City Elections In Even-numbered Years		18	
+2022NOVGEN	107	City Elections In Even-numbered Years		19	
+2022NOVGEN	107	City Elections In Even-numbered Years		20	
+2022NOVGEN	107	City Elections In Even-numbered Years		21	
+2022NOVGEN	107	City Elections In Even-numbered Years		22	
+2022NOVGEN	107	City Elections In Even-numbered Years		23	
+2022NOVGEN	107	City Elections In Even-numbered Years		24	
+2022NOVGEN	107	City Elections In Even-numbered Years		25	
+2022NOVGEN	107	City Elections In Even-numbered Years		26	
+2022NOVGEN	107	City Elections In Even-numbered Years		27	
+2022NOVGEN	107	City Elections In Even-numbered Years		28	
+2022NOVGEN	107	City Elections In Even-numbered Years		29	
+2022NOVGEN	107	City Elections In Even-numbered Years		30	
+2022NOVGEN	107	City Elections In Even-numbered Years		31	
+2022NOVGEN	107	City Elections In Even-numbered Years		32	
+2022NOVGEN	107	City Elections In Even-numbered Years		33	
+2022NOVGEN	107	City Elections In Even-numbered Years		34	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		1	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		2	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		3	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		4	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		5	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		6	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		7	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		8	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		9	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		10	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		11	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		12	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		13	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		14	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		15	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		16	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		17	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		18	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		19	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		20	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		21	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		22	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		23	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		24	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		25	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		26	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		27	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		28	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		29	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		30	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		31	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		32	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		33	
+2022NOVGEN	108	Vehicles On Jfk Drive In Golden Gate Park And The Great Highway		34	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		1	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		2	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		3	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		4	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		5	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		6	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		7	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		8	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		9	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		10	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		11	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		12	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		13	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		14	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		15	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		16	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		17	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		18	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		19	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		20	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		21	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		22	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		23	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		24	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		25	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		26	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		27	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		28	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		29	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		30	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		31	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		32	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		33	
+2022NOVGEN	109	Recreational Use Of Jfk Drive In Golden Gate Park		34	
+2022NOVGEN	111	Sales Tax For Transportation Projects		1	
+2022NOVGEN	111	Sales Tax For Transportation Projects		2	
+2022NOVGEN	111	Sales Tax For Transportation Projects		3	
+2022NOVGEN	111	Sales Tax For Transportation Projects		4	
+2022NOVGEN	111	Sales Tax For Transportation Projects		5	
+2022NOVGEN	111	Sales Tax For Transportation Projects		6	
+2022NOVGEN	111	Sales Tax For Transportation Projects		7	
+2022NOVGEN	111	Sales Tax For Transportation Projects		8	
+2022NOVGEN	111	Sales Tax For Transportation Projects		9	
+2022NOVGEN	111	Sales Tax For Transportation Projects		10	
+2022NOVGEN	111	Sales Tax For Transportation Projects		11	
+2022NOVGEN	111	Sales Tax For Transportation Projects		12	
+2022NOVGEN	111	Sales Tax For Transportation Projects		13	
+2022NOVGEN	111	Sales Tax For Transportation Projects		14	
+2022NOVGEN	111	Sales Tax For Transportation Projects		15	
+2022NOVGEN	111	Sales Tax For Transportation Projects		16	
+2022NOVGEN	111	Sales Tax For Transportation Projects		17	
+2022NOVGEN	111	Sales Tax For Transportation Projects		18	
+2022NOVGEN	111	Sales Tax For Transportation Projects		19	
+2022NOVGEN	111	Sales Tax For Transportation Projects		20	
+2022NOVGEN	111	Sales Tax For Transportation Projects		21	
+2022NOVGEN	111	Sales Tax For Transportation Projects		22	
+2022NOVGEN	111	Sales Tax For Transportation Projects		23	
+2022NOVGEN	111	Sales Tax For Transportation Projects		24	
+2022NOVGEN	111	Sales Tax For Transportation Projects		25	
+2022NOVGEN	111	Sales Tax For Transportation Projects		26	
+2022NOVGEN	111	Sales Tax For Transportation Projects		27	
+2022NOVGEN	111	Sales Tax For Transportation Projects		28	
+2022NOVGEN	111	Sales Tax For Transportation Projects		29	
+2022NOVGEN	111	Sales Tax For Transportation Projects		30	
+2022NOVGEN	111	Sales Tax For Transportation Projects		31	
+2022NOVGEN	111	Sales Tax For Transportation Projects		32	
+2022NOVGEN	111	Sales Tax For Transportation Projects		33	
+2022NOVGEN	111	Sales Tax For Transportation Projects		34	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		1	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		2	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		3	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		4	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		5	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		6	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		7	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		8	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		9	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		10	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		11	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		12	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		13	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		14	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		15	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		16	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		17	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		18	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		19	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		20	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		21	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		22	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		23	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		24	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		25	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		26	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		27	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		28	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		29	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		30	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		31	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		32	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		33	
+2022NOVGEN	112	Tax On Keeping Residential Units Vacant		34	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		1	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		2	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		3	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		4	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		5	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		6	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		7	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		8	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		9	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		10	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		11	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		12	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		13	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		14	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		15	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		16	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		17	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		18	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		19	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		20	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		21	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		22	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		23	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		24	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		25	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		26	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		27	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		28	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		29	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		30	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		31	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		32	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		33	
+2022NOVGEN	113	Golden Gate Park Underground Parking Facility; Golden Gate Park Concourse Authority		34	
+2022NOVGEN	114	Additional Parcel Tax For City College		1	
+2022NOVGEN	114	Additional Parcel Tax For City College		2	
+2022NOVGEN	114	Additional Parcel Tax For City College		3	
+2022NOVGEN	114	Additional Parcel Tax For City College		4	
+2022NOVGEN	114	Additional Parcel Tax For City College		5	
+2022NOVGEN	114	Additional Parcel Tax For City College		6	
+2022NOVGEN	114	Additional Parcel Tax For City College		7	
+2022NOVGEN	114	Additional Parcel Tax For City College		8	
+2022NOVGEN	114	Additional Parcel Tax For City College		9	
+2022NOVGEN	114	Additional Parcel Tax For City College		10	
+2022NOVGEN	114	Additional Parcel Tax For City College		11	
+2022NOVGEN	114	Additional Parcel Tax For City College		12	
+2022NOVGEN	114	Additional Parcel Tax For City College		13	
+2022NOVGEN	114	Additional Parcel Tax For City College		14	
+2022NOVGEN	114	Additional Parcel Tax For City College		15	
+2022NOVGEN	114	Additional Parcel Tax For City College		16	
+2022NOVGEN	114	Additional Parcel Tax For City College		17	
+2022NOVGEN	114	Additional Parcel Tax For City College		18	
+2022NOVGEN	114	Additional Parcel Tax For City College		19	
+2022NOVGEN	114	Additional Parcel Tax For City College		20	
+2022NOVGEN	114	Additional Parcel Tax For City College		21	
+2022NOVGEN	114	Additional Parcel Tax For City College		22	
+2022NOVGEN	114	Additional Parcel Tax For City College		23	
+2022NOVGEN	114	Additional Parcel Tax For City College		24	
+2022NOVGEN	114	Additional Parcel Tax For City College		25	
+2022NOVGEN	114	Additional Parcel Tax For City College		26	
+2022NOVGEN	114	Additional Parcel Tax For City College		27	
+2022NOVGEN	114	Additional Parcel Tax For City College		28	
+2022NOVGEN	114	Additional Parcel Tax For City College		29	
+2022NOVGEN	114	Additional Parcel Tax For City College		30	
+2022NOVGEN	114	Additional Parcel Tax For City College		31	
+2022NOVGEN	114	Additional Parcel Tax For City College		32	
+2022NOVGEN	114	Additional Parcel Tax For City College		33	
+2022NOVGEN	114	Additional Parcel Tax For City College		34	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		1	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		2	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		3	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		4	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		5	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		6	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		7	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		8	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		9	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		10	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		11	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		12	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		13	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		14	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		15	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		16	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		17	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		18	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		19	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		20	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		21	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		22	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		23	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		24	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		25	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		26	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		27	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		28	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		29	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		30	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		31	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		32	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		33	
+2022NOVGEN	115	Constitutional Right To Reproductive Freedom		34	
+2022NOVGEN	116	Authorizes New Types Of Gambling		1	
+2022NOVGEN	116	Authorizes New Types Of Gambling		2	
+2022NOVGEN	116	Authorizes New Types Of Gambling		3	
+2022NOVGEN	116	Authorizes New Types Of Gambling		4	
+2022NOVGEN	116	Authorizes New Types Of Gambling		5	
+2022NOVGEN	116	Authorizes New Types Of Gambling		6	
+2022NOVGEN	116	Authorizes New Types Of Gambling		7	
+2022NOVGEN	116	Authorizes New Types Of Gambling		8	
+2022NOVGEN	116	Authorizes New Types Of Gambling		9	
+2022NOVGEN	116	Authorizes New Types Of Gambling		10	
+2022NOVGEN	116	Authorizes New Types Of Gambling		11	
+2022NOVGEN	116	Authorizes New Types Of Gambling		12	
+2022NOVGEN	116	Authorizes New Types Of Gambling		13	
+2022NOVGEN	116	Authorizes New Types Of Gambling		14	
+2022NOVGEN	116	Authorizes New Types Of Gambling		15	
+2022NOVGEN	116	Authorizes New Types Of Gambling		16	
+2022NOVGEN	116	Authorizes New Types Of Gambling		17	
+2022NOVGEN	116	Authorizes New Types Of Gambling		18	
+2022NOVGEN	116	Authorizes New Types Of Gambling		19	
+2022NOVGEN	116	Authorizes New Types Of Gambling		20	
+2022NOVGEN	116	Authorizes New Types Of Gambling		21	
+2022NOVGEN	116	Authorizes New Types Of Gambling		22	
+2022NOVGEN	116	Authorizes New Types Of Gambling		23	
+2022NOVGEN	116	Authorizes New Types Of Gambling		24	
+2022NOVGEN	116	Authorizes New Types Of Gambling		25	
+2022NOVGEN	116	Authorizes New Types Of Gambling		26	
+2022NOVGEN	116	Authorizes New Types Of Gambling		27	
+2022NOVGEN	116	Authorizes New Types Of Gambling		28	
+2022NOVGEN	116	Authorizes New Types Of Gambling		29	
+2022NOVGEN	116	Authorizes New Types Of Gambling		30	
+2022NOVGEN	116	Authorizes New Types Of Gambling		31	
+2022NOVGEN	116	Authorizes New Types Of Gambling		32	
+2022NOVGEN	116	Authorizes New Types Of Gambling		33	
+2022NOVGEN	116	Authorizes New Types Of Gambling		34	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		1	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		2	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		3	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		4	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		5	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		6	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		7	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		8	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		9	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		10	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		11	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		12	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		13	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		14	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		15	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		16	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		17	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		18	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		19	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		20	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		21	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		22	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		23	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		24	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		25	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		26	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		27	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		28	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		29	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		30	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		31	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		32	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		33	
+2022NOVGEN	117	Allows Online And Mobile Sports Wagering		34	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		1	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		2	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		3	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		4	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		5	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		6	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		7	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		8	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		9	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		10	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		11	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		12	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		13	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		14	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		15	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		16	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		17	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		18	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		19	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		20	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		21	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		22	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		23	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		24	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		25	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		26	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		27	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		28	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		29	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		30	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		31	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		32	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		33	
+2022NOVGEN	118	Provides Additional Funding For Arts And Music Education In Public Schools		34	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		1	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		2	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		3	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		4	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		5	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		6	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		7	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		8	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		9	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		10	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		11	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		12	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		13	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		14	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		15	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		16	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		17	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		18	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		19	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		20	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		21	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		22	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		23	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		24	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		25	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		26	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		27	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		28	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		29	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		30	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		31	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		32	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		33	
+2022NOVGEN	119	Requires On-site Licensed Medical Professional At Kidney Dialysis Clinics And Establishes Other State Requirements		34	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		1	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		2	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		3	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		4	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		5	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		6	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		7	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		8	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		9	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		10	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		11	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		12	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		13	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		14	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		15	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		16	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		17	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		18	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		19	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		20	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		21	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		22	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		23	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		24	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		25	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		26	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		27	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		28	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		29	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		30	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		31	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		32	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		33	
+2022NOVGEN	120	Provides Funding For Programs To Reduce Greenhouse Gas Emissions By Increasing Tax On Personal Income Over $2 Million		34	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		1	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		2	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		3	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		4	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		5	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		6	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		7	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		8	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		9	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		10	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		11	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		12	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		13	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		14	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		15	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		16	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		17	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		18	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		19	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		20	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		21	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		22	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		23	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		24	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		25	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		26	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		27	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		28	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		29	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		30	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		31	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		32	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		33	
+2022NOVGEN	121	Referendum Challenging A 2020 Law Prohibiting Retail Sale Of Certain Flavored Tobacco Products		34	
+2022NOVGEN	1010	UNITED STATES SENATOR	      	1	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	2	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	3	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	4	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	5	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	6	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	7	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	8	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	9	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	10	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	11	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	12	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	13	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	14	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	15	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	16	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	17	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	18	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	19	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	20	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	21	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	22	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	23	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	24	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	25	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	26	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	27	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	28	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	29	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	30	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	31	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	32	1
+2022NOVGEN	1010	UNITED STATES SENATOR	      	33	2
+2022NOVGEN	1010	UNITED STATES SENATOR	      	34	2
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	1	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	2	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	3	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	4	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	5	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	6	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	7	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	8	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	9	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	10	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	11	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	12	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	13	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	14	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	15	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	16	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	17	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	18	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	19	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	20	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	21	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	22	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	23	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	24	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	25	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	26	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	27	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	28	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	29	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	30	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	31	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	32	1
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	33	2
+2022NOVGEN	1011	UNITED STATES SENATOR	PARTIAL TERM      	34	2
+2022NOVGEN	1019	US HOUSE OF REP	DISTRICT 2      	34	0
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	1	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	4	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	6	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	7	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	8	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	9	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	10	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	11	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	12	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	13	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	14	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	15	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	16	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	17	1
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	19	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	20	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	21	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	22	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	23	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	24	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	25	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	26	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	27	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	28	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	30	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	31	2
+2022NOVGEN	1021	US HOUSE OF REP	DISTRICT 11      	32	1
+2022NOVGEN	1022	US HOUSE OF REP	DISTRICT 12      	33	0
+2022NOVGEN	1023	US HOUSE OF REP	DISTRICT 15      	2	2
+2022NOVGEN	1023	US HOUSE OF REP	DISTRICT 15      	3	1
+2022NOVGEN	1023	US HOUSE OF REP	DISTRICT 15      	5	1
+2022NOVGEN	1023	US HOUSE OF REP	DISTRICT 15      	18	1
+2022NOVGEN	1023	US HOUSE OF REP	DISTRICT 15      	29	2
+2022NOVGEN	1128	STATE SENATOR	DISTRICT 2      	34	0
+2022NOVGEN	1212	STATE ASSEMBLY MEMBER	DISTRICT 12      	34	2
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	3	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	4	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	5	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	6	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	7	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	8	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	9	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	10	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	11	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	12	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	13	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	14	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	15	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	16	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	17	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	18	1
+2022NOVGEN	1217	STATE ASSEMBLY MEMBER	DISTRICT 17      	32	1
+2022NOVGEN	1218	STATE ASSEMBLY MEMBER	DISTRICT 18      	33	2
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	1	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	2	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	19	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	20	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	21	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	22	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	23	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	24	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	25	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	26	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	27	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	28	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	29	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	30	1
+2022NOVGEN	1219	STATE ASSEMBLY MEMBER	DISTRICT 19      	31	1
+2022NOVGEN	4000	GOVERNOR	      	1	1
+2022NOVGEN	4000	GOVERNOR	      	2	1
+2022NOVGEN	4000	GOVERNOR	      	3	1
+2022NOVGEN	4000	GOVERNOR	      	4	1
+2022NOVGEN	4000	GOVERNOR	      	5	1
+2022NOVGEN	4000	GOVERNOR	      	6	1
+2022NOVGEN	4000	GOVERNOR	      	7	1
+2022NOVGEN	4000	GOVERNOR	      	8	1
+2022NOVGEN	4000	GOVERNOR	      	9	1
+2022NOVGEN	4000	GOVERNOR	      	10	1
+2022NOVGEN	4000	GOVERNOR	      	11	1
+2022NOVGEN	4000	GOVERNOR	      	12	1
+2022NOVGEN	4000	GOVERNOR	      	13	1
+2022NOVGEN	4000	GOVERNOR	      	14	1
+2022NOVGEN	4000	GOVERNOR	      	15	1
+2022NOVGEN	4000	GOVERNOR	      	16	1
+2022NOVGEN	4000	GOVERNOR	      	17	1
+2022NOVGEN	4000	GOVERNOR	      	18	1
+2022NOVGEN	4000	GOVERNOR	      	19	1
+2022NOVGEN	4000	GOVERNOR	      	20	1
+2022NOVGEN	4000	GOVERNOR	      	21	1
+2022NOVGEN	4000	GOVERNOR	      	22	1
+2022NOVGEN	4000	GOVERNOR	      	23	1
+2022NOVGEN	4000	GOVERNOR	      	24	1
+2022NOVGEN	4000	GOVERNOR	      	25	1
+2022NOVGEN	4000	GOVERNOR	      	26	1
+2022NOVGEN	4000	GOVERNOR	      	27	1
+2022NOVGEN	4000	GOVERNOR	      	28	1
+2022NOVGEN	4000	GOVERNOR	      	29	1
+2022NOVGEN	4000	GOVERNOR	      	30	1
+2022NOVGEN	4000	GOVERNOR	      	31	1
+2022NOVGEN	4000	GOVERNOR	      	32	1
+2022NOVGEN	4000	GOVERNOR	      	33	2
+2022NOVGEN	4000	GOVERNOR	      	34	2
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	1	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	2	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	3	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	4	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	5	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	6	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	7	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	8	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	9	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	10	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	11	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	12	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	13	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	14	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	15	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	16	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	17	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	18	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	19	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	20	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	21	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	22	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	23	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	24	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	25	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	26	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	27	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	28	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	29	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	30	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	31	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	32	1
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	33	2
+2022NOVGEN	4010	LIEUTENANT GOVERNOR	      	34	2
+2022NOVGEN	4020	SECRETARY OF STATE	      	1	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	2	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	3	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	4	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	5	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	6	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	7	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	8	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	9	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	10	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	11	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	12	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	13	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	14	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	15	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	16	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	17	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	18	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	19	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	20	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	21	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	22	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	23	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	24	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	25	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	26	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	27	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	28	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	29	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	30	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	31	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	32	1
+2022NOVGEN	4020	SECRETARY OF STATE	      	33	2
+2022NOVGEN	4020	SECRETARY OF STATE	      	34	2
+2022NOVGEN	4030	CONTROLLER	      	1	1
+2022NOVGEN	4030	CONTROLLER	      	2	1
+2022NOVGEN	4030	CONTROLLER	      	3	1
+2022NOVGEN	4030	CONTROLLER	      	4	1
+2022NOVGEN	4030	CONTROLLER	      	5	1
+2022NOVGEN	4030	CONTROLLER	      	6	1
+2022NOVGEN	4030	CONTROLLER	      	7	1
+2022NOVGEN	4030	CONTROLLER	      	8	1
+2022NOVGEN	4030	CONTROLLER	      	9	1
+2022NOVGEN	4030	CONTROLLER	      	10	1
+2022NOVGEN	4030	CONTROLLER	      	11	1
+2022NOVGEN	4030	CONTROLLER	      	12	1
+2022NOVGEN	4030	CONTROLLER	      	13	1
+2022NOVGEN	4030	CONTROLLER	      	14	1
+2022NOVGEN	4030	CONTROLLER	      	15	1
+2022NOVGEN	4030	CONTROLLER	      	16	1
+2022NOVGEN	4030	CONTROLLER	      	17	1
+2022NOVGEN	4030	CONTROLLER	      	18	1
+2022NOVGEN	4030	CONTROLLER	      	19	1
+2022NOVGEN	4030	CONTROLLER	      	20	1
+2022NOVGEN	4030	CONTROLLER	      	21	1
+2022NOVGEN	4030	CONTROLLER	      	22	1
+2022NOVGEN	4030	CONTROLLER	      	23	1
+2022NOVGEN	4030	CONTROLLER	      	24	1
+2022NOVGEN	4030	CONTROLLER	      	25	1
+2022NOVGEN	4030	CONTROLLER	      	26	1
+2022NOVGEN	4030	CONTROLLER	      	27	1
+2022NOVGEN	4030	CONTROLLER	      	28	1
+2022NOVGEN	4030	CONTROLLER	      	29	1
+2022NOVGEN	4030	CONTROLLER	      	30	1
+2022NOVGEN	4030	CONTROLLER	      	31	1
+2022NOVGEN	4030	CONTROLLER	      	32	1
+2022NOVGEN	4030	CONTROLLER	      	33	2
+2022NOVGEN	4030	CONTROLLER	      	34	2
+2022NOVGEN	4040	TREASURER	      	1	1
+2022NOVGEN	4040	TREASURER	      	2	1
+2022NOVGEN	4040	TREASURER	      	3	1
+2022NOVGEN	4040	TREASURER	      	4	1
+2022NOVGEN	4040	TREASURER	      	5	1
+2022NOVGEN	4040	TREASURER	      	6	1
+2022NOVGEN	4040	TREASURER	      	7	1
+2022NOVGEN	4040	TREASURER	      	8	1
+2022NOVGEN	4040	TREASURER	      	9	1
+2022NOVGEN	4040	TREASURER	      	10	1
+2022NOVGEN	4040	TREASURER	      	11	1
+2022NOVGEN	4040	TREASURER	      	12	1
+2022NOVGEN	4040	TREASURER	      	13	1
+2022NOVGEN	4040	TREASURER	      	14	1
+2022NOVGEN	4040	TREASURER	      	15	1
+2022NOVGEN	4040	TREASURER	      	16	1
+2022NOVGEN	4040	TREASURER	      	17	1
+2022NOVGEN	4040	TREASURER	      	18	1
+2022NOVGEN	4040	TREASURER	      	19	1
+2022NOVGEN	4040	TREASURER	      	20	1
+2022NOVGEN	4040	TREASURER	      	21	1
+2022NOVGEN	4040	TREASURER	      	22	1
+2022NOVGEN	4040	TREASURER	      	23	1
+2022NOVGEN	4040	TREASURER	      	24	1
+2022NOVGEN	4040	TREASURER	      	25	1
+2022NOVGEN	4040	TREASURER	      	26	1
+2022NOVGEN	4040	TREASURER	      	27	1
+2022NOVGEN	4040	TREASURER	      	28	1
+2022NOVGEN	4040	TREASURER	      	29	1
+2022NOVGEN	4040	TREASURER	      	30	1
+2022NOVGEN	4040	TREASURER	      	31	1
+2022NOVGEN	4040	TREASURER	      	32	1
+2022NOVGEN	4040	TREASURER	      	33	2
+2022NOVGEN	4040	TREASURER	      	34	2
+2022NOVGEN	4050	ATTORNEY GENERAL	      	1	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	2	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	3	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	4	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	5	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	6	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	7	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	8	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	9	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	10	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	11	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	12	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	13	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	14	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	15	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	16	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	17	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	18	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	19	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	20	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	21	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	22	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	23	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	24	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	25	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	26	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	27	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	28	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	29	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	30	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	31	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	32	1
+2022NOVGEN	4050	ATTORNEY GENERAL	      	33	2
+2022NOVGEN	4050	ATTORNEY GENERAL	      	34	2
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	1	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	2	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	3	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	4	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	5	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	6	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	7	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	8	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	9	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	10	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	11	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	12	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	13	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	14	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	15	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	16	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	17	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	18	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	19	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	20	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	21	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	22	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	23	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	24	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	25	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	26	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	27	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	28	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	29	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	30	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	31	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	32	1
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	33	2
+2022NOVGEN	4060	INSURANCE COMMISSIONER	      	34	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	1	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	2	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	3	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	4	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	5	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	6	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	7	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	8	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	9	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	10	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	11	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	12	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	13	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	14	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	15	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	16	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	17	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	18	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	19	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	20	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	21	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	22	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	23	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	24	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	25	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	26	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	27	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	28	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	29	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	30	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	31	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	32	2
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	33	0
+2022NOVGEN	4070	BOARD OF EQUALIZATION	      	34	0
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	1	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	2	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	3	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	4	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	5	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	6	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	7	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	8	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	9	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	10	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	11	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	12	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	13	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	14	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	15	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	16	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	17	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	18	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	19	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	20	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	21	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	22	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	23	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	24	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	25	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	26	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	27	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	28	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	29	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	30	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	31	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	32	1
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	33	2
+2022NOVGEN	4080	SUPERINTENDENT OF PUBLIC INSTRUCTION	      	34	2
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	1	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	2	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	3	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	4	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	5	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	6	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	7	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	8	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	9	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	10	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	11	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	12	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	13	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	14	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	15	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	16	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	17	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	18	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	19	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	20	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	21	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	22	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	23	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	24	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	25	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	26	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	27	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	28	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	29	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	30	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	31	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	32	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	33	1
+2022NOVGEN	5030	ASSESSOR-RECORDER	      	34	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	1	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	2	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	3	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	4	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	5	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	6	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	7	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	8	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	9	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	10	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	11	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	12	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	13	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	14	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	15	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	16	4
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	17	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	18	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	19	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	20	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	21	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	22	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	23	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	24	4
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	25	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	26	1
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	27	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	28	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	29	3
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	30	4
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	31	4
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	32	4
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	33	2
+2022NOVGEN	5040	DISTRICT ATTORNEY	      	34	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	1	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	2	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	3	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	4	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	5	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	6	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	7	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	8	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	9	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	10	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	11	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	12	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	13	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	14	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	15	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	16	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	17	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	18	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	19	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	20	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	21	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	22	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	23	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	24	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	25	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	26	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	27	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	28	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	29	1
+2022NOVGEN	5060	PUBLIC DEFENDER	      	30	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	31	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	32	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	33	2
+2022NOVGEN	5060	PUBLIC DEFENDER	      	34	2
+2022NOVGEN	5102	BOARD OF SUPERVISORS	DISTRICT 2      	6	0
+2022NOVGEN	5102	BOARD OF SUPERVISORS	DISTRICT 2      	7	0
+2022NOVGEN	5102	BOARD OF SUPERVISORS	DISTRICT 2      	21	0
+2022NOVGEN	5102	BOARD OF SUPERVISORS	DISTRICT 2      	22	0
+2022NOVGEN	5104	BOARD OF SUPERVISORS	DISTRICT 4      	24	0
+2022NOVGEN	5106	BOARD OF SUPERVISORS	DISTRICT 6      	12	0
+2022NOVGEN	5106	BOARD OF SUPERVISORS	DISTRICT 6      	13	0
+2022NOVGEN	5106	BOARD OF SUPERVISORS	DISTRICT 6      	33	0
+2022NOVGEN	5106	BOARD OF SUPERVISORS	DISTRICT 6      	34	0
+2022NOVGEN	5108	BOARD OF SUPERVISORS	DISTRICT 8      	16	0
+2022NOVGEN	5108	BOARD OF SUPERVISORS	DISTRICT 8      	30	0
+2022NOVGEN	5108	BOARD OF SUPERVISORS	DISTRICT 8      	31	0
+2022NOVGEN	5108	BOARD OF SUPERVISORS	DISTRICT 8      	32	0
+2022NOVGEN	5110	BOARD OF SUPERVISORS	DISTRICT 10      	4	0
+2022NOVGEN	5110	BOARD OF SUPERVISORS	DISTRICT 10      	5	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	1	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	2	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	6	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	8	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	11	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	13	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	15	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	19	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	21	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	23	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	24	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	26	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	27	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	29	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	31	0
+2022NOVGEN	6020	BART DIRECTOR	DISTRICT 8      	32	0
+2022NOVGEN	8520	MEMBER, BoE	      	1	5
+2022NOVGEN	8520	MEMBER, BoE	      	2	5
+2022NOVGEN	8520	MEMBER, BoE	      	3	5
+2022NOVGEN	8520	MEMBER, BoE	      	4	4
+2022NOVGEN	8520	MEMBER, BoE	      	5	4
+2022NOVGEN	8520	MEMBER, BoE	      	6	2
+2022NOVGEN	8520	MEMBER, BoE	      	7	2
+2022NOVGEN	8520	MEMBER, BoE	      	8	3
+2022NOVGEN	8520	MEMBER, BoE	      	9	3
+2022NOVGEN	8520	MEMBER, BoE	      	10	5
+2022NOVGEN	8520	MEMBER, BoE	      	11	5
+2022NOVGEN	8520	MEMBER, BoE	      	12	6
+2022NOVGEN	8520	MEMBER, BoE	      	13	6
+2022NOVGEN	8520	MEMBER, BoE	      	14	1
+2022NOVGEN	8520	MEMBER, BoE	      	15	1
+2022NOVGEN	8520	MEMBER, BoE	      	16	2
+2022NOVGEN	8520	MEMBER, BoE	      	17	3
+2022NOVGEN	8520	MEMBER, BoE	      	18	3
+2022NOVGEN	8520	MEMBER, BoE	      	19	1
+2022NOVGEN	8520	MEMBER, BoE	      	20	1
+2022NOVGEN	8520	MEMBER, BoE	      	21	2
+2022NOVGEN	8520	MEMBER, BoE	      	22	2
+2022NOVGEN	8520	MEMBER, BoE	      	23	3
+2022NOVGEN	8520	MEMBER, BoE	      	24	4
+2022NOVGEN	8520	MEMBER, BoE	      	25	5
+2022NOVGEN	8520	MEMBER, BoE	      	26	5
+2022NOVGEN	8520	MEMBER, BoE	      	27	1
+2022NOVGEN	8520	MEMBER, BoE	      	28	1
+2022NOVGEN	8520	MEMBER, BoE	      	29	1
+2022NOVGEN	8520	MEMBER, BoE	      	30	2
+2022NOVGEN	8520	MEMBER, BoE	      	31	2
+2022NOVGEN	8520	MEMBER, BoE	      	32	2
+2022NOVGEN	8520	MEMBER, BoE	      	33	6
+2022NOVGEN	8520	MEMBER, BoE	      	34	6
+2022NOVGEN	8540	MEMBER, CCB	      	1	1
+2022NOVGEN	8540	MEMBER, CCB	      	2	1
+2022NOVGEN	8540	MEMBER, CCB	      	3	1
+2022NOVGEN	8540	MEMBER, CCB	      	4	10
+2022NOVGEN	8540	MEMBER, CCB	      	5	10
+2022NOVGEN	8540	MEMBER, CCB	      	6	2
+2022NOVGEN	8540	MEMBER, CCB	      	7	2
+2022NOVGEN	8540	MEMBER, CCB	      	8	3
+2022NOVGEN	8540	MEMBER, CCB	      	9	3
+2022NOVGEN	8540	MEMBER, CCB	      	10	5
+2022NOVGEN	8540	MEMBER, CCB	      	11	5
+2022NOVGEN	8540	MEMBER, CCB	      	12	6
+2022NOVGEN	8540	MEMBER, CCB	      	13	6
+2022NOVGEN	8540	MEMBER, CCB	      	14	7
+2022NOVGEN	8540	MEMBER, CCB	      	15	7
+2022NOVGEN	8540	MEMBER, CCB	      	16	8
+2022NOVGEN	8540	MEMBER, CCB	      	17	9
+2022NOVGEN	8540	MEMBER, CCB	      	18	9
+2022NOVGEN	8540	MEMBER, CCB	      	19	1
+2022NOVGEN	8540	MEMBER, CCB	      	20	1
+2022NOVGEN	8540	MEMBER, CCB	      	21	2
+2022NOVGEN	8540	MEMBER, CCB	      	22	2
+2022NOVGEN	8540	MEMBER, CCB	      	23	3
+2022NOVGEN	8540	MEMBER, CCB	      	24	4
+2022NOVGEN	8540	MEMBER, CCB	      	25	5
+2022NOVGEN	8540	MEMBER, CCB	      	26	5
+2022NOVGEN	8540	MEMBER, CCB	      	27	7
+2022NOVGEN	8540	MEMBER, CCB	      	28	7
+2022NOVGEN	8540	MEMBER, CCB	      	29	7
+2022NOVGEN	8540	MEMBER, CCB	      	30	8
+2022NOVGEN	8540	MEMBER, CCB	      	31	8
+2022NOVGEN	8540	MEMBER, CCB	      	32	8
+2022NOVGEN	8540	MEMBER, CCB	      	33	6
+2022NOVGEN	8540	MEMBER, CCB	      	34	6
+2022NOVGEN	8560	MEMBER, CCB	S/T      	1	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	2	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	3	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	4	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	5	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	6	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	7	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	8	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	9	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	10	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	11	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	12	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	13	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	14	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	15	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	16	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	17	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	18	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	19	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	20	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	21	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	22	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	23	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	24	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	25	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	26	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	27	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	28	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	29	1
+2022NOVGEN	8560	MEMBER, CCB	S/T      	30	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	31	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	32	2
+2022NOVGEN	8560	MEMBER, CCB	S/T      	33	3
+2022NOVGEN	8560	MEMBER, CCB	S/T      	34	3

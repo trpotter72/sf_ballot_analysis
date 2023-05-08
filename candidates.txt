@@ -1,0 +1,80 @@
+iContestID	szBallotHeading	szSubHeading	szOfficeTitle	szOfficeAbbr1	szOfficeAbbr2	sGoesIntoExtension	iNumToVoteFor	iOfficeOnBallot	iNumQualified	iNumCandidates	iCandidateID	szCandidateName	szBallotDesignation	szAltDesignation1	szAltDesignation2	iIncumbent	dtQualified	dtSigsInLieuFiled_dt	dtSigsInLieuIssued_dt	dtDecOfIntentIssued_dt	dtDecOfIntentFiled_dt	dtNOMIssued_dt	dtNomFiled_dt	dtFilingFeePaid_dt	dtCandStmtFiled_dt	dtCandStmtIssued_dt	dtDecOfCandIssued_dt	dtDecOfCandFiled_dt	dtCodeFairCampFiled_dt	sUserCode1	sUserCode2	szResAddress1	szResAddress2	szResAddress3	szMailAddr1	szMailAddr2	szMailAddr3	szMailAddr4	szBusinessAddr1	szBusinessCity	szBusinessState	szBusinessZip	sBusinessPhone	sHomePhone	sFaxNo	szEmailAddress	sPartyAbbr	szPartyName	sCampaignPhone	sCampaignFax	sCampaignMobile	szWebAddress	sElectronicCandStmt	sOnlineAppSubmitted	dtOnlineAppSubmitted_dt
+1010	FEDERAL		UNITED STATES SENATOR	UNITED STATES SENATOR		N	1	1	2	2	2	MARK P. MEUSER	Constitutional Attorney			0	8/9/2022 3:43:00 PM																																				No 	No 	
+1010	FEDERAL		UNITED STATES SENATOR	UNITED STATES SENATOR		N	1	1	2	2	1	ALEX PADILLA	Appointed United States Senator			0	8/9/2022 3:44:00 PM																																				No 	No 	
+1011	FEDERAL		UNITED STATES SENATOR PARTIAL TERM	UNITED STATES SENATOR	PARTIAL TERM	N	1	1	2	2	2	MARK P MEUSER	Constitutional Attorney			0	8/18/2022 10:51:00 AM																																				No 	No 	
+1011	FEDERAL		UNITED STATES SENATOR PARTIAL TERM	UNITED STATES SENATOR	PARTIAL TERM	N	1	1	2	2	1	ALEX PADILLA	Appointed United States Senator			0	8/18/2022 10:50:00 AM																																				No 	No 	
+1019	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 2	US HOUSE OF REP	DISTRICT 2	N	1	1	2	2	1	DOUGLAS BROWER				0	8/12/2022 4:26:00 PM																																				No 	No 	
+1019	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 2	US HOUSE OF REP	DISTRICT 2	N	1	1	2	2	2	JARED HUFFMAN				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1021	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 11	US HOUSE OF REP	DISTRICT 11	N	1	1	2	2	2	JOHN DENNIS	Independent Businessman			0	8/9/2022 3:40:00 PM																																				No 	No 	
+1021	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 11	US HOUSE OF REP	DISTRICT 11	N	1	1	2	2	1	NANCY PELOSI	Member Of Congress			0	8/9/2022 3:40:00 PM																																				No 	No 	
+1022	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 12	US HOUSE OF REP	DISTRICT 12	N	1	1	2	2	1	BARBARA LEE				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1022	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 12	US HOUSE OF REP	DISTRICT 12	N	1	1	2	2	2	STEPHEN SLAUSON				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1023	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 15	US HOUSE OF REP	DISTRICT 15	N	1	1	2	2	2	DAVID J. CANEPA	San Mateo County Supervisor			0	8/9/2022 3:40:00 PM																																				No 	No 	
+1023	FEDERAL		UNITED STATES REPRESENTATIVE, DISTRICT 15	US HOUSE OF REP	DISTRICT 15	N	1	1	2	2	1	KEVIN MULLIN	California State Assemblymember			0	8/9/2022 3:40:00 PM																																				No 	No 	
+1128	STATE		STATE SENATOR, DISTRICT 2	STATE SENATOR	DISTRICT 2	N	1	1	2	2	1	MIKE MCGUIRE				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1128	STATE		STATE SENATOR, DISTRICT 2	STATE SENATOR	DISTRICT 2	N	1	1	2	2	2	GENE YOON				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1212	STATE		STATE ASSEMBLY MEMBER, DISTRICT 12	STATE ASSEMBLY MEMBER	DISTRICT 12	N	0	1	2	2	1	SARA AMINZADEH				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1212	STATE		STATE ASSEMBLY MEMBER, DISTRICT 12	STATE ASSEMBLY MEMBER	DISTRICT 12	N	0	1	2	2	2	DAMON CONNOLLY				0	8/12/2022 4:27:00 PM																																				No 	No 	
+1217	STATE		STATE ASSEMBLY MEMBER, DISTRICT 17	STATE ASSEMBLY MEMBER	DISTRICT 17	N	1	1	2	2	1	MATT HANEY	Assemblymember			1	8/9/2022 3:40:00 PM																																				No 	No 	
+1217	STATE		STATE ASSEMBLY MEMBER, DISTRICT 17	STATE ASSEMBLY MEMBER	DISTRICT 17	N	1	1	2	2	2	DAVID CAMPOS	Criminal Justice Administrator			0	8/9/2022 3:40:00 PM																																				No 	No 	
+1218	STATE		STATE ASSEMBLY MEMBER, DISTRICT 18	STATE ASSEMBLY MEMBER	DISTRICT 18	N	1	1	2	2	2	MIALISA TANIA BONTA				0	8/12/2022 4:28:00 PM																																				No 	No 	
+1218	STATE		STATE ASSEMBLY MEMBER, DISTRICT 18	STATE ASSEMBLY MEMBER	DISTRICT 18	N	1	1	2	2	1	MINDY PECHENUK				0	8/12/2022 4:28:00 PM																																				No 	No 	
+1219	STATE		STATE ASSEMBLY MEMBER, DISTRICT 19	STATE ASSEMBLY MEMBER	DISTRICT 19	N	1	1	2	2	1	PHIL TING	Assembly Budget Chair			1	8/9/2022 3:41:00 PM																																				No 	No 	
+1219	STATE		STATE ASSEMBLY MEMBER, DISTRICT 19	STATE ASSEMBLY MEMBER	DISTRICT 19	N	1	1	2	2	2	KARSTEN WEIDE	Industry Analyst			0	8/9/2022 3:41:00 PM																																				No 	No 	
+4000	STATE		GOVERNOR	GOVERNOR		N	1	1	2	2	1	GAVIN NEWSOM	Governor Of California			1	8/9/2022 3:41:00 PM																																				No 	No 	
+4000	STATE		GOVERNOR	GOVERNOR		N	1	1	2	2	2	BRIAN DAHLE	Senator / Farmer			0	8/9/2022 3:41:00 PM																																				No 	No 	
+4010	STATE		LIEUTENANT GOVERNOR	LIEUTENANT GOVERNOR		N	1	1	2	2	1	ELENI KOUNALAKIS	Lieutenant Governor			1	8/9/2022 3:42:00 PM																																				No 	No 	
+4010	STATE		LIEUTENANT GOVERNOR	LIEUTENANT GOVERNOR		N	1	1	2	2	2	ANGELA E. UNDERWOOD JACOBS	Businesswoman / Deputy Mayor			0	8/9/2022 3:42:00 PM																																				No 	No 	
+4020	STATE		SECRETARY OF STATE	SECRETARY OF STATE		N	1	1	2	2	2	ROB BERNOSKY	Chief Financial Officer			0	8/9/2022 3:42:00 PM																																				No 	No 	
+4020	STATE		SECRETARY OF STATE	SECRETARY OF STATE		N	1	1	2	2	1	SHIRLEY N. WEBER	Appointed California Secretary Of State			0	8/9/2022 3:42:00 PM																																				No 	No 	
+4030	STATE		CONTROLLER	CONTROLLER		N	1	1	2	2	1	LANHEE CHEN	Financial Analyst			0	8/9/2022 3:42:00 PM																																				No 	No 	
+4030	STATE		CONTROLLER	CONTROLLER		N	1	1	2	2	2	MALIA M. COHEN	California Board Of Equalization Member			0	8/9/2022 3:42:00 PM																																				No 	No 	
+4040	STATE		TREASURER	TREASURER		N	1	1	2	2	1	FIONA MA	State Treasurer			1	8/9/2022 3:43:00 PM																																				No 	No 	
+4040	STATE		TREASURER	TREASURER		N	1	1	2	2	2	JACK M. GUERRERO	Councilmember / Cpa / Economist			0	8/9/2022 3:43:00 PM																																				No 	No 	
+4050	STATE		ATTORNEY GENERAL	ATTORNEY GENERAL		N	1	1	2	2	1	ROB BONTA	Appointed Attorney General Of The State Of California			0	8/9/2022 3:43:00 PM																																				No 	No 	
+4050	STATE		ATTORNEY GENERAL	ATTORNEY GENERAL		N	1	1	2	2	2	NATHAN HOCHMAN	General Counsel			0	8/9/2022 3:43:00 PM																																				No 	No 	
+4060	STATE		INSURANCE COMMISSIONER	INSURANCE COMMISSIONER		N	1	1	2	2	1	RICARDO LARA	Insurance Commissioner			1	8/9/2022 3:43:00 PM																																				No 	No 	
+4060	STATE		INSURANCE COMMISSIONER	INSURANCE COMMISSIONER		N	1	1	2	2	2	ROBERT HOWELL	Cybersecurity Equipment Manufacturer			0	8/9/2022 3:43:00 PM																																				No 	No 	
+4070	STATE		BOARD OF EQUALIZATION MEMBER, DISTRICT 2	BOARD OF EQUALIZATION		N	1	1	2	2	2	PETER COE VERBICA	Investment Advisor			0	8/9/2022 3:42:00 PM																																				No 	No 	
+4070	STATE		BOARD OF EQUALIZATION MEMBER, DISTRICT 2	BOARD OF EQUALIZATION		N	1	1	2	2	1	SALLY LIEBER	Councilwoman / Environmental Advocate			0	8/9/2022 3:43:00 PM																																				No 	No 	
+4080	SCHOOL		SUPERINTENDENT OF PUBLIC INSTRUCTION	SUPERINTENDENT OF PUBLIC		N	1	1	2	2	1	TONY K. THURMOND	Superintendent Of Public Instruction			1	8/9/2022 3:42:00 PM																																				No 	No 	
+4080	SCHOOL		SUPERINTENDENT OF PUBLIC INSTRUCTION	SUPERINTENDENT OF PUBLIC		N	1	1	2	2	2	LANCE RAY CHRISTENSEN	Education Policy Executive			0	8/9/2022 3:42:00 PM																																				No 	No 	
+5030	CITY AND COUNTY		ASSESSOR-RECORDER	ASSESSOR-RECORDER		N	1	1	1	1	1	JOAQUÍN TORRES	Assessor- Recorder, City And County Of San Francisco			1	8/12/2022 8:23:00 AM																																				No 	No 	
+5040	CITY AND COUNTY		DISTRICT ATTORNEY	DISTRICT ATTORNEY		N	1	1	4	4	2	MAURICE CHENIER	Attorney At Law			0	8/9/2022 12:36:00 PM																																				No 	No 	
+5040	CITY AND COUNTY		DISTRICT ATTORNEY	DISTRICT ATTORNEY		N	1	1	4	4	5	JOHN HAMASAKI	Civil Rights Attorney			0	8/12/2022 5:34:00 PM																																				No 	No 	
+5040	CITY AND COUNTY		DISTRICT ATTORNEY	DISTRICT ATTORNEY		N	1	1	4	4	3	JOE ALIOTO VERONESE	Civil Rights Attorney			0	8/12/2022 12:40:00 PM																																				No 	No 	
+5040	CITY AND COUNTY		DISTRICT ATTORNEY	DISTRICT ATTORNEY		N	1	1	4	4	1	BROOKE JENKINS	Appointed District Attorney			0	8/9/2022 10:49:00 AM																																				No 	No 	
+5060	CITY AND COUNTY		PUBLIC DEFENDER	PUBLIC DEFENDER		N	1	1	2	2	1	MANO RAJU	Incumbent			1	8/11/2022 2:21:00 PM																																				No 	No 	
+5060	CITY AND COUNTY		PUBLIC DEFENDER	PUBLIC DEFENDER		N	1	1	2	2	2	REBECCA SUSAN FENG YOUNG	Criminal Justice Attorney			0	8/12/2022 5:11:00 PM																																				No 	No 	
+5102	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 2	BOARD OF SUPERVISORS	DISTRICT 2	N	1	1	1	1	1	CATHERINE STEFANI	District 2 Supervisor			1	7/27/2022 11:03:00 AM																																				No 	No 	
+5104	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 4	BOARD OF SUPERVISORS	DISTRICT 4	N	1	1	3	3	1	GORDON MAR	Member, Board Of Supervisors			1	7/27/2022 11:03:00 AM																																				No 	No 	
+5104	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 4	BOARD OF SUPERVISORS	DISTRICT 4	N	1	1	3	3	2	JOEL ENGARDIO	Nonprofit Director / Journalist			0	7/27/2022 11:03:00 AM																																				No 	No 	
+5104	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 4	BOARD OF SUPERVISORS	DISTRICT 4	N	1	1	3	3	3	LEANNA LOUIE	Nonprofit Director / Entrepreneur			0	7/27/2022																																				No 	No 	
+5106	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 6	BOARD OF SUPERVISORS	DISTRICT 6	N	1	1	4	4	1	MS BILLIE COOPER	Peer Educator Organizer			0	7/27/2022 11:03:00 AM																																				No 	No 	
+5106	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 6	BOARD OF SUPERVISORS	DISTRICT 6	N	1	1	4	4	2	CHERELLE JACKSON	Director Of Communications			0	7/27/2022 11:14:00 AM																																				No 	No 	
+5106	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 6	BOARD OF SUPERVISORS	DISTRICT 6	N	1	1	4	4	3	HONEY MAHOGANY	Social Worker			0	7/27/2022 11:12:00 AM																																				No 	No 	
+5106	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 6	BOARD OF SUPERVISORS	DISTRICT 6	N	1	1	4	4	4	MATT DORSEY	Appointed Member, Board Of Supervisors			0	7/27/2022 11:03:00 AM																																				No 	No 	
+5108	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 8	BOARD OF SUPERVISORS	DISTRICT 8	N	1	1	2	2	1	RAFAEL MANDELMAN	District 8 Supervisor			1	7/27/2022 11:14:00 AM																																				No 	No 	
+5108	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 8	BOARD OF SUPERVISORS	DISTRICT 8	N	1	1	2	2	2	KATE STOIA	Lawyer			0	7/27/2022 11:14:00 AM																																				No 	No 	
+5110	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 10	BOARD OF SUPERVISORS	DISTRICT 10	N	1	1	2	2	1	SHAMANN WALTON	President, San Francisco County Supervisors			1	7/27/2022 11:12:00 AM																																				No 	No 	
+5110	CITY AND COUNTY		MEMBER, BOARD OF SUPERVISORS, DISTRICT 10	BOARD OF SUPERVISORS	DISTRICT 10	N	1	1	2	2	2	BRIAN SAM ADAM	Public Information Officer			0	7/27/2022 11:11:00 AM																																				No 	No 	
+6020	DISTRICT		BART DIRECTOR, DISTRICT 8	BART DIRECTOR	DISTRICT 8	Y	1	1	1	1	1	JANICE LI	Bart Board Director			1	8/4/2022 3:07:00 PM																																				No 	No 	
+8520	SCHOOL		MEMBER, BOARD OF EDUCATION	MEMBER, BoE		Y	3	1	6	6	12	ALIDA FISHER	Special Education Advocate			0	8/11/2022 4:48:00 PM																																				No 	No 	
+8520	SCHOOL		MEMBER, BOARD OF EDUCATION	MEMBER, BoE		Y	3	1	6	6	16	KAREN FLESHMAN	Diversity Inclusion Educator			0	8/12/2022 5:23:00 PM																																				No 	No 	
+8520	SCHOOL		MEMBER, BOARD OF EDUCATION	MEMBER, BoE		Y	3	1	6	6	14	ANN HSU	Appointed Member, Board Of Education			0	8/9/2022 12:36:00 PM																																				No 	No 	
+8520	SCHOOL		MEMBER, BOARD OF EDUCATION	MEMBER, BoE		Y	3	1	6	6	20	GABRIELA LOPEZ	Teacher Educator			0	8/12/2022 12:41:00 PM																																				No 	No 	
+8520	SCHOOL		MEMBER, BOARD OF EDUCATION	MEMBER, BoE		Y	3	1	6	6	15	LAINIE MOTAMEDI	Appointed Member, Board Of Education			0	8/12/2022 5:05:00 PM																																				No 	No 	
+8520	SCHOOL		MEMBER, BOARD OF EDUCATION	MEMBER, BoE		Y	3	1	6	6	17	LISA WEISSMAN-WARD	Appointed Member, Board Of Education			0	8/11/2022 2:20:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	4	BRIGITTE DAVILA	President, City College Board			1	8/12/2022 5:22:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	2	JOHN RIZZO	Vice President, Community College Board			1	8/12/2022 8:22:00 AM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	3	THEA SELBY	Trustee, City College Of San Francisco			1	8/12/2022 12:41:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	12	SUSAN SOLOMON	Retired Teacher			0	8/12/2022 12:44:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	5	WILLIAM WALKER	Public School Teacher			0	8/10/2022 11:20:00 AM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	14	JILL YEE	Academic Dean			0	8/12/2022 5:18:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	7	JASON CHUYNAN ZENG	Data Engineer			0	8/5/2022 12:49:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	6	MARIE HURABIELL	University Regent / Entrepreneur			0	8/12/2022 2:52:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	1	ANITA MARTINEZ	Retired Teacher / Administrator			0	8/12/2022 5:10:00 PM																																				No 	No 	
+8540	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD	MEMBER, CCB		Y	3	1	10	10	8	VICK CHUNG	Community Organizer			0	8/12/2022 5:22:00 PM																																				No 	No 	
+8560	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD SHORT TERM	MEMBER, CCB	S/T	Y	1	1	3	3	3	MURRELL GREEN	Appointed Trustee, Community College Board			0	8/12/2022 5:16:00 PM																																				No 	No 	
+8560	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD SHORT TERM	MEMBER, CCB	S/T	Y	1	1	3	3	1	DANIEL LANDRY	Director, Arts Nonprofit			0	7/27/2022 11:11:00 AM																																				No 	No 	
+8560	SCHOOL		MEMBER, COMMUNITY COLLEGE BOARD SHORT TERM	MEMBER, CCB	S/T	Y	1	1	3	3	2	ADOLFO VELASQUEZ	Retired Chair / Counselor			0	8/10/2022 4:53:00 PM																																				No 	No 	

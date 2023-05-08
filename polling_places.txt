@@ -1,0 +1,515 @@
+ElectionAbbr	PollingSiteID	PollingSiteName	TableID	PollingPlaceDesc1	PollingPlaceDesc2	SamBalAddr1	SamBalAddr2	VotingPctID	VotingPctName	PollPlaceRegPctID	PollPlaceRegPctPortion	BallotTypeList
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	1103   	Pct 1103 MB	1103   		1  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	1116   	Pct 1116 MB	1116   		1  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7203   	Pct 7203 MB	7203   		7  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7204   	Pct 7204 MB	7204   		7  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7206   	Pct 7206 MB	7206   		6  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7338   	Pct 7338 MB	7338   		9  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	7636   	Pct 7636 MB	7636   		13  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9147   	Pct 9147 MB	9147   		20  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9513   	Pct 9513 MB	9513   		25  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9901   	Pct 9901 MB	9901   		32  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9902   	Pct 9902 MB	9902   		18  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9903   	Pct 9903 MB	9903   		33  
+2022NOVGEN	0	MAIL BALLOT PRECINCT	 	MAIL BALLOT PRECINCT	 	 	 	9904   	Pct 9904 MB	9904   		34  
+2022NOVGEN	11	1145 - 755 Morse St		Longfellow School - Front Lobby	755 Morse St	Btw Mission & Lowell	4.3% Slope	1145   	Pct 1145	1145   		3  
+2022NOVGEN	28	1142 - 1261 Geneva Ave (loc 1143)		Geneva Ave United Methodist Church - Fellowship Hall	1261 Geneva Ave	Btw Vienna & Athens	5.0% Slope	1142   	Pct 1142	1142   		3  
+2022NOVGEN	32	1148 - 859 Prague St		Guadalupe Elementary School - Hallway	859 Prague St	Enter At Corner Of Prague & Naylor	8.3% Slope - Ramped Access	1148   	Pct 1148	1148   		3  
+2022NOVGEN	36	1127 - 62 Santa Rosa Avenue		Corpus Christi Church	62 Santa Rosa Ave	Enter On Alemany At Santa Rosa	1.1% Slope	1127   	Pct 1127	1127   		2  
+2022NOVGEN	39	1133 - 260 Madrid St		Monroe School - Multipurpose Room	260 Madrid St	Btw Avalon & Excelsior Ave	3.6% Slope	1133   	Pct 1133	1133   		3  
+2022NOVGEN	55	1139 - 325 La Grande Ave		City Arts & Tech High School - Hallway	325 La Grande Ave	Btw Persia & Brazil	8.3% Slope - Ramped Access	1139   	Pct 1139	1139   		3  
+2022NOVGEN	61	7939 - 95 Justin Drive		St Mary's Rec Center - Auditorium	95 Justin Dr	Corner Of Justin & Murray	5.2% Slope	7939   	Pct 7939	7939   		17  
+2022NOVGEN	65	7942 - 810 Silver Ave		Hillcrest School - Auditorium	810 Silver Ave	Btw Cambridge & Yale Sts	8.3% Slope - Ramped Access	7942   	Pct 7942	7942   		18  
+2022NOVGEN	66	7944 - 500 Felton Street		Palega Rec Center - Lobby	500 Felton St	Btw Hamilton & Somerset	4.7% Slope	7944   	Pct 7944	7944   		18  
+2022NOVGEN	73	7041 - 1654 Sunnydale Ave		Sunnydale Development Community Rm	1654 Sunnydale Ave	Enter On Sunnydale At Santos	8.3% Slope Ramped Access	7041   	Pct 7041	7041   		5  
+2022NOVGEN	77	7948 - 750 Mansell St		Garage	750 Mansell St	Btw Bowdoin & Dartmouth	6.7% Slope	7948   	Pct 7948	7948   		18  
+2022NOVGEN	78	7044 - 70 Delta St		El Dorado School - Cafeteria	70 Delta St	Btw Harkness & Hamilton	8.3% Slope Ramped Access	7044   	Pct 7044	7044   		5  
+2022NOVGEN	91	7046 - 701 Sunnydale Ave		Church Of The Visitacion - Gym	701 Sunnydale Ave	Btw Rutland & Cora	8.3% Slope - Ramped Access	7046   	Pct 7046	7046   		5  
+2022NOVGEN	106	9117 - 25 Lake St		St John's Presbyterian Church - Lobby	25 Lake St	Enter At Corner Of Lake St & Arguello Bl	8.3% Slope - Ramped Access	9117   	Pct 9117	9117   		19  
+2022NOVGEN	119	9101 - 499 41st Ave		Firehouse #34	499 41st Ave	Btw Geary Blvd & Pt. Lobos Ave	1.6% Slope	9101   	Pct 9101	9101   		19  
+2022NOVGEN	121	9134 - 734 46th Ave		Garage	734 46th Ave	Btw Balboa & Cabrillo Sts	4.2% Slope	9134   	Pct 9134	9134   		19  
+2022NOVGEN	126	9135 - 853 38th Ave		Cabrillo Playground - Clubhouse	853 38th Ave	Between Cabrillo & Fulton St	4.6% Slope	9135   	Pct 9135	9135   		19  
+2022NOVGEN	148	9138 - 735 24th Ave		Academic & Professional Dev - Room 118	735 24th Ave	Btw Balboa & Cabrillo Sts	6.9% Slope	9138   	Pct 9138	9138   		19  
+2022NOVGEN	150	9108 - 250 23rd Ave		Alamo Elementary School - Lobby	250 23rd Ave	Btw Clement & California	0.5% Slope	9108   	Pct 9108	9108   		19  
+2022NOVGEN	178	9142 - 701 8th Ave		Golden Gate Church Of Christ - Community Rm	701 8th Ave	Btw Cabrillo & Fulton	2.5% Slope	9142   	Pct 9142	9142   		19  
+2022NOVGEN	181	9118 - 345 Arguello Blvd		Senior Housing - Community Room	345 Arguello Blvd	Btw Cornwall & Clement Sts	2.8% Slope	9118   	Pct 9118	9118   		19  
+2022NOVGEN	185	9143 - 651 6th Avenue		Mccoppin School - Cafeteria	651 6th Ave	Btw Cabrillo & Balboa Sts	3.7% Slope	9143   	Pct 9143	9143   		19  
+2022NOVGEN	192	9229 - 51 Commonwealth Ave		St Gregory Armenian - Youth Hall	51 Commonwealth Ave	Btw Euclid & California	5.4% Slope	9229   	Pct 9229	9229   		21  
+2022NOVGEN	207	9236 - 40 Vega St		Wallenberg High School - Cafeteria	40 Vega St	Btw Nido & Anza Vista	6.8% Slope	9236   	Pct 9236	9236   		21  
+2022NOVGEN	209	9237 - 1915 Mcallister St		Pentecostal Temple Church - Dining Room	1915 Mcallister St	Btw Lyon St & Central Ave	1.5% Slope	9237   	Pct 9237	9237   		21  
+2022NOVGEN	222	9409 - 1530 43rd Avenue		Francis Scott Key E. S. - Auditorium	1530 43rd Ave	Enter At 43rd Ave & Kirkham	8.2% Ramped Access	9409   	Pct 9409	9409   		24  
+2022NOVGEN	247	9425 - 2051 34th Ave		R. L. Stevenson Elementary School - Main Lobby	2051 34th Ave	Btw Quintara & Pacheco	5.5% Slope	9425   	Pct 9425	9425   		24  
+2022NOVGEN	263	9419 - 1750 29th Ave		Episcopal Church Of The Incarnation - Library	1750 29th Ave	Btw Noriega & Moraga	1.4% Slope - Ramped Access	9419   	Pct 9419	9419   		24  
+2022NOVGEN	283	9444 - 2650 42nd Ave		Ulloa Elementary School - Gymnasium	2650 42nd Ave	Enter On Vicente Btw 41st & 42nd Ave	4.9% Slope - Ramped Access	9444   	Pct 9444	9444   		24  
+2022NOVGEN	307	9433 - 2162 24th Ave		Abraham Lincoln School - Teachers' Lounge	2162 24th Ave	Btw Rivera & Quintara	4.7% Slope	9433   	Pct 9433	9433   		24  
+2022NOVGEN	315	9705 - 1725 Irving St		Jefferson Elementary School - Auditorium	1725 Irving St	Enter On 19th Ave Btw Irving & Judah	3.1% Slope	9705   	Pct 9705	9705   		27  
+2022NOVGEN	318	9706 - 1390 14th Ave		Saint Anne Of The Sunset Church	1390 14th Ave	Btw Irving & Judah	7.7% Slope - Ramped Access	9706   	Pct 9706	9706   		27  
+2022NOVGEN	330	9708 - 8 Locksley Ave		Avalon Sunset Towers - Lobby	8 Locksley Ave	Btw Lawton Sts & 6th Ave	8.3% Slope	9708   	Pct 9708	9708   		28  
+2022NOVGEN	331	9704 - 1 Irving St		Lobby At U C S F Parking Garage	1 Irving St	Corner Of Irving & Arguello	3.7% Slope	9704   	Pct 9704	9704   		28  
+2022NOVGEN	348	9711 - 1541 12th Ave		Alice Fong Yu Alternative School - Multipurpose Rm 401	1541 12th Ave	Between Kirkham & Lawton	3.4% Slope	9711   	Pct 9711	9711   		27  
+2022NOVGEN	366	7702 - 285 Olympia Way		Firehouse #20 - Left Bay	285 Olympia Way	Corner Of Clarendon & Olympia	0.9% Slope	7702   	Pct 7702	7702   		14  
+2022NOVGEN	388	7709 - 1091 Portola Dr		Firehouse #39	1091 Portola Dr	On Portola At Marne & Miraloma	1.3% Slope	7709   	Pct 7709	7709   		15  
+2022NOVGEN	395	7711 - 175 Omar Way		Miraloma Elementary School - Gym	175 Omar Way	Btw Omar & Rockdale	6.3% Slope	7711   	Pct 7711	7711   		15  
+2022NOVGEN	410	7708 - 50 Darien Way		Commodore Sloat Elementary School - Auditorium	50 Darien Way	Btw Junipero Serra & San Fernando	4.7% Slope	7708   	Pct 7708	7708   		15  
+2022NOVGEN	411	7712 - 105 Aptos Ave		Aptos Middle School - Room 231	105 Aptos Ave	Enter On Upland At San Aleso	5.5% Slope	7712   	Pct 7712	7712   		15  
+2022NOVGEN	439	7848 - 80 Digby Street		Firehouse #26 - Right Bay	80 Digby St	Near Playground At Digby & Everson	8.3% Slope	7848   	Pct 7848	7848   		16  
+2022NOVGEN	446	9808 - 151 Lippard Ave		Glen Park School - South Hallway	151 Lippard Ave	Btw  Bosworth & Joost Sts	5.5% Slope - Ramped Access	9808   	Pct 9808	9808   		31  
+2022NOVGEN	450	7844 - 295 Day St		Upper Noe Recreation Center	295 Day St	Btw Sanchez & Church	4.9% Slope - Ramped Access	7844   	Pct 7844	7844   		16  
+2022NOVGEN	461	7936 - 500 Cortland Ave		Bernal Heights Library - Community Room	500 Cortland Ave	Enter On Andover Btw Cortland & Moultrie	1.8% Slope	7936   	Pct 7936	7936   		17  
+2022NOVGEN	462	7937 - 555 Tompkins Ave		Paul Revere Elementary School - Main Hallway	555 Tompkins Ave	Corner Of Tompkins & Banks	3.1% Slope	7937   	Pct 7937	7937   		17  
+2022NOVGEN	466	7941 - 560 Alemany Blvd		Alemany Apartments - Community Room	560 Alemany Blvd	Enter On Ellsworth Btw Alemany & Crescent	5.0% Slope	7941   	Pct 7941	7941   		17  
+2022NOVGEN	467	9722 - 515 John Muir Dr		Lakewood Apartments - Lobby	515 John Muir Dr	Cross Street Skyline Blvd	Exceeds 8.3% Running Slope, 2% Cross Slope. Curbside Voting Avail	9722   	Pct 9722	9722   		27  
+2022NOVGEN	474	9452 - 220 Middlefield Drive		Lakeshore Elementary - Lobby	220 Middlefield Drive	Corner Of Eucalyptus & Middlefield	4.1% Slope - Ramped Access	9452   	Pct 9452	9452   		24  
+2022NOVGEN	481	9726 - 350 Arballo Dr		Villas Park Merced - Lobby	350 Arballo Dr	Enter Btw Vidal & Pinto	7.6% slope	9726   	Pct 9726	9726   		27  
+2022NOVGEN	485	9727 - 150 Font Blvd		Villas Park Merced - Lobby	150 Font Blvd	Btw Cambon & Chumasero Drive	8% Slope - Ramped Entrance	9727   	Pct 9727	9727   		27  
+2022NOVGEN	492	1101 - 65 Beverly St		Temple United Methodist Church	65 Beverly St	Btw Shields St & 19th Ave	3.6% Slope	1101   	Pct 1101	1101   		1  
+2022NOVGEN	517	7017 - 1800 Oakdale Ave		City College - Southeast Campus - Lobby	1800 Oakdale Ave	Btw Quint & Phelps Sts	3.9% Slope	7017   	Pct 7017	7017   		4  
+2022NOVGEN	522	7027 - 410 Hawes Street		Our Lady Of Lourdes Church	410 Hawes St	Btw Innes Ave & Hudson	5.3% Slope	7027   	Pct 7027	7027   		4  
+2022NOVGEN	524	7021 - 45 Conkling Street		Thurgood Marshall High School - Auditorium	45 Conkling St	Btw Silver Ave & Waterville St	8.3% Slope - Ramped Access	7021   	Pct 7021	7021   		4  
+2022NOVGEN	530	7029 - 50 Pomona St		Charles Drew Elementary School - Cafeteria	50 Pomona St	Btw Thornton & Bayview	3.6% Slope	7029   	Pct 7029	7029   		4  
+2022NOVGEN	548	7028 - 2082 Bancroft Ave		Garage	2082 Bancroft Ave	Btw Thornton Ave & Phelps St	2.9% Slope	7028   	Pct 7028	7028   		4  
+2022NOVGEN	562	7055 - 1035 Gilman Avenue		Bret Harte Elementary School - Hallway	1035 Gilman Ave	Btw Griffith & Hawes Sts	5.1% Slope	7055   	Pct 7055	7055   		4  
+2022NOVGEN	586	9239 - 2698 California St		Senior Housing - Social Room	2698 California St	Enter Scott St Btw California & Sacramento	4.4% Slope	9239   	Pct 9239	9239   		22  
+2022NOVGEN	603	9217 - 2350 Green St		St Vincent De Paul School - Lobby	2350 Green St	Btw Pierce & Steiner	0.9% Slope	9217   	Pct 9217	9217   		21  
+2022NOVGEN	619	9219 - 1801 Green Street		Golden Gate Valley Library - Program Rm	1801 Green St	Enter Thru Iron Gate Btw Octavia & Laguna	1.0% Slope	9219   	Pct 9219	9219   		21  
+2022NOVGEN	627	9215 - 1570 Greenwich St		Garage	1570 Greenwich St	Enter On Franklin At Greenwich	4.4% Slope	9215   	Pct 9215	9215   		21  
+2022NOVGEN	630	9222 - 1651 Union St		Sherman School - Library	1651 Union St	Btw Franklin & Gough	4.6% Slope - Ramped Access	9222   	Pct 9222	9222   		21  
+2022NOVGEN	652	9207 - 1150 Francisco Street		Galileo High School - Room 210	1150 Francisco St	Btw Van Ness & Polk	8% Slope	9207   	Pct 9207	9207   		21  
+2022NOVGEN	653	9302 - 2637 Larkin St		Garage	2637 Larkin St	Btw Chestnut & Lombard	3.0% Slope	9302   	Pct 9302	9302   		23  
+2022NOVGEN	654	9301 - 2454 Hyde St		Norwegian Seaman's Church - Garage	2454 Hyde St	Btw Francisco & Chestnut Sts	8% Slope	9301   	Pct 9301	9301   		23  
+2022NOVGEN	662	7303 - 111 Bay St		North Pt Wet Weather Facility - Lobby	111 Bay St	Btw Kearny & Midway	2.8% Slope	7303   	Pct 7303	7303   		8  
+2022NOVGEN	663	7302 - 2190 Powell St		Francisco Middle School - Auditorium	2190 Powell St	Enter Schoolyard From Francisco Btw Powell & Stockton	0.8% Slope	7302   	Pct 7302	7302   		8  
+2022NOVGEN	671	7313 - 155 Jackson Street		Golden Gateway Ctr - Lobby	155 Jackson St	Enter On Front St Near Corner Of Jackson	2.4% Slope	7313   	Pct 7313	7313   		8  
+2022NOVGEN	676	9305 - 2041 Larkin St		The Church For The Fellowship Of All Peoples	2041 Larkin St	Btw Broadway & Vallejo	1.5% Slope	9305   	Pct 9305	9305   		23  
+2022NOVGEN	685	7321 - 1325 Leavenworth Street		Firehouse #41	1325 Leavenworth St	Btw Washington & Clay	2.0% Slope	7321   	Pct 7321	7321   		8  
+2022NOVGEN	693	7305 - 756 Union St		San Francisco Evangelical Free Church	756 Union St	Btw Powell & Mason	6.2% Slope	7305   	Pct 7305	7305   		8  
+2022NOVGEN	694	7316 - 990 Pacific Ave		990 Pacific Ave Apartments - Community Room	990 Pacific Ave	Btw Powell & Mason Streets	8.0% slope - ramped access	7316   	Pct 7316	7316   		8  
+2022NOVGEN	700	7311 - 1450 Powell Street		Salvation Army - Lobby	1450 Powell St	Btw Broadway & Vallejo	2.5% Slope	7311   	Pct 7311	7311   		8  
+2022NOVGEN	703	7308 - 350 Broadway		John Yehall Chin School - Library	350 Broadway	Btw Sansome & Montgomery	8.3% Slope - Ramped Access	7308   	Pct 7308	7308   		8  
+2022NOVGEN	705	7325 - 950 Clay St		Gordon J. Lau Elementary School -  Auditorium Lobby	950 Clay St	Btw Stockton & Powell	3.1% Slope	7325   	Pct 7325	7325   		8  
+2022NOVGEN	707	7326 - 777 Stockton Street		Geen Mun Center - Conference Room	777 Stockton St	Enter On Stockton At Sacramento	5.2% Slope	7326   	Pct 7326	7326   		8  
+2022NOVGEN	712	7328 - 1067 Post St		Firehouse #3	1067 Post St	Btw Polk & Larkin	3.8% Slope	7328   	Pct 7328	7328   		8  
+2022NOVGEN	726	7527 - 666 Ellis St		Ellis Gardens - Social Room	666 Ellis St	Btw Larkin & Hyde	4.9% Slope	7527   	Pct 7527	7527   		10  
+2022NOVGEN	727	7531 - 378 Golden Gate Ave		Hampton Court	378 Golden Gate Ave	Between Hyde & Larkin	1.2% Slope	7531   	Pct 7531	7531   		10  
+2022NOVGEN	735	7332 - 1040 Bush Street		Mary Elizabeth Inn - Dining Hall	1040 Bush St	Btw Leavenworth & Jones	1.7% Slope	7332   	Pct 7332	7332   		8  
+2022NOVGEN	736	7335 - 1001 Pine St		1001 Pine Street Apartments	1001 Pine St	Btw Jones & Taylor	5.9% Slope	7335   	Pct 7335	7335   		8  
+2022NOVGEN	750	7528 - 380 Eddy Street		Cadillac Hotel	380 Eddy St	Btw Jones & Leavenworth	3.3% Slope	7528   	Pct 7528	7528   		10  
+2022NOVGEN	765	9511 - 2501 Sutter St		Westside Court - Community Room	2501 Sutter St	Enter On Broderick Btw Sutter & Post	4.3% Slope	9511   	Pct 9511	9511   		26  
+2022NOVGEN	767	9238 - 2725 California St		Dr. William L. Cobb E. S. - Main Hallway	2725 California St	Btw Scott & Divisadero	7.8% Slope - Ramped Access	9238   	Pct 9238	9238   		22  
+2022NOVGEN	770	7501 - 1975 Post St		Jones Memorial Methodist Church - Multi Purpose Rm	1975 Post St	Entrance On Post At Boswell	7.9% Slope - Ramped Access	7501   	Pct 7501	7501   		10  
+2022NOVGEN	773	7507 - 1501 O'Farrell St		Rosa Parks Elementary School - Auditorium	1501 O'farrell St	Btw Hollis St & Inca Lane	6.2% Slope - Ramped Access	7507   	Pct 7507	7507   		10  
+2022NOVGEN	776	7508 - 1601 Turk St		Creative Arts Charter School - Room 101	1601 Turk St	Btw Scott & Pierce Sts	3.1% Slope	7508   	Pct 7508	7508   		10  
+2022NOVGEN	781	7208 - 601 Van Ness Ave		Opera Plaza - 2nd Fl Mezzanine - Community Rm	601 Van Ness Ave	Btw Turk St & Golden Gate	8.3% Slope - Ramped Access	7208   	Pct 7208	7208   		7  
+2022NOVGEN	784	7514 - 1399 Mc Allister St		Third Baptist Church	1399 Mcallister St	Corner Of Mc Allister & Pierce	Exceeds 8.3% Running Slope, 2% Cross Slope. Curbside Voting Avail	7514   	Pct 7514	7514   		10  
+2022NOVGEN	791	7512 - 460 Fulton St		Neighborhood Network Center	460 Fulton St	Btw Octavia & Gough	5% Slope	7512   	Pct 7512	7512   		10  
+2022NOVGEN	807	7805 - 50 Scott St		Harvey Milk Recreation Center	50 Scott St	Btw Waller & Duboce	5.0% Slope	7805   	Pct 7805	7805   		16  
+2022NOVGEN	809	7521 - 508 Haight St (loc 7519)		Cafe International	508 Haight St	Btw Steiner & Fillmore	5.6% Slope	7521   	Pct 7521	7521   		10  
+2022NOVGEN	822	7616 - 1035 Folsom St		Columbia Park Apartments	1035 Folsom St	Btw 6th & 7th Sts	4.2% Slope	7616   	Pct 7616	7616   		12  
+2022NOVGEN	834	7632 - 747 Folsom St		Mendelsohn House - Activities Room	747 Folsom St	Btw 3rd & 4th Sts	1.9% Slope	7632   	Pct 7632	7632   		12  
+2022NOVGEN	846	9502 - 2049 Grove St		New Traditions Elementary School - Auditorium	2049 Grove St	Btw Cole & Clayton	7.9% Slope	9502   	Pct 9502	9502   		25  
+2022NOVGEN	847	9505 - 1860 Hayes St		CCSF - John Adams Campus - Cafeteria	1860 Hayes St	Btw Masonic & Ashbury	8% Slope - Ramped Access	9505   	Pct 9505	9505   		25  
+2022NOVGEN	853	9501 - 1833 Page St		Park Branch Library - Community Room	1833 Page St	Btw Cole & Shrader	6.0% Slope - Ramped Access	9501   	Pct 9501	9501   		25  
+2022NOVGEN	874	9805 - 165 Grattan St		Grattan Elementary School - Auditorium 116 A	165 Grattan St	Btw Cole & Shrader	5.6% Slope - Ramped Access	9805   	Pct 9805	9805   		30  
+2022NOVGEN	880	7803 - 1025 14th Street		Mckinley Elementary School - Front Lobby	1025 14th St	Btw Castro & Divisadero	4.4% Slope	7803   	Pct 7803	7803   		16  
+2022NOVGEN	881	7802 - 199 Museum Way		Randall Museum - Lobby	199 Museum Way	Cross Street - Roosevelt Way	7.3% Slope	7802   	Pct 7802	7802   		16  
+2022NOVGEN	900	7816 - 450 Church St		Everett Middle School - Rm 165	450 Church St	Btw 16th & 17th Sts	8.3% Slope - Ramped Access	7816   	Pct 7816	7816   		16  
+2022NOVGEN	903	7818 - 500 Corbett Ave		Rooftop Mayeda Campus - Lobby	500 Corbett Ave	Corner Of Iron Alley & Corbett	7.7% Slope	7818   	Pct 7818	7818   		16  
+2022NOVGEN	914	7821 - 100 Collingwood St		Eureka Valley Rec Ctr  - Multi Purpose Rm	100 Collingwood St	Btw 18th & 19th Sts	8.3% Slope - Ramped Access	7821   	Pct 7821	7821   		16  
+2022NOVGEN	932	7817 - 450 Guerrero St		Boys & Girls Club - Dance Studio	450 Guerrero St	Btw 16th & 17th Sts	2.2% Slope	7817   	Pct 7817	7817   		16  
+2022NOVGEN	942	7903 - 630 Valencia Street		Mission Police Station - Community Room	630 Valencia St	Between 17th & 18th Sts	5.0% Slope	7903   	Pct 7903	7903   		17  
+2022NOVGEN	951	7909 - 580 Capp St		Bethany Center - Multi Purpose Room	580 Capp St	Btw 20th & 21st St	8.3% Slope - Ramped Access	7909   	Pct 7909	7909   		17  
+2022NOVGEN	958	7915 - 745 Treat Ave		Mission Arts Center - 2nd Floor Auditorium	745 Treat Ave	Btw 20th & 21st Sts	6.1% Slope	7915   	Pct 7915	7915   		17  
+2022NOVGEN	959	7916 - 825 Shotwell St		Cesar Chavez School - Main Hallway	825 Shotwell St	Btw 22nd & 23rd Sts	2.2% Slope	7916   	Pct 7916	7916   		17  
+2022NOVGEN	979	7922 - 1271 Treat Ave		Garfield Square Rec Center - Multi Purpose Rm	1271 Treat Ave	Btw 25th & 26th Sts	1.4% Slope	7922   	Pct 7922	7922   		17  
+2022NOVGEN	992	7007 - 953 De Haro St		Potrero Hill Neighborhood House	953 De Haro St	Enter On DE Haro At Southern Heights	8.0% Slope	7007   	Pct 7007	7007   		4  
+2022NOVGEN	1013	7831 - 625 Douglass St		Alvarado Elementary School - Motor Skills Rm	625 Douglass St	Enter On 22nd St Btw Douglass & Eureka	4.5% Slope	7831   	Pct 7831	7831   		16  
+2022NOVGEN	1047	7835 - 3880 26th St		Firehouse #11 - Right Bay	3880 26th St	Btw Church & Dolores	6.4% Slope	7835   	Pct 7835	7835   		16  
+2022NOVGEN	1089	9227 - 3200 California St		Jewish Community Center Of S F - Atrium	3200 California St	Btw Presidio Ave & Walnut St	2.6% Slope	9227   	Pct 9227	9227   		21  
+2022NOVGEN	1126	7509 - 1240 Fillmore St		Royal Apartments - Community Rm	1240 Fillmore St	Btw Turk & Eddy	1.5% Slope	7509   	Pct 7509	7509   		10  
+2022NOVGEN	1143	7832 - 451 Jersey St		Noe Valley Branch Library - Program Room	451 Jersey St	Btw Diamond & Castro	3.9% Slope	7832   	Pct 7832	7832   		16  
+2022NOVGEN	1149	7704 - 2290 14th Ave		Herbert Hoover Middle School - Auditorium Lobby	2290 14th Ave	Enter 14th Ave At Santiago	8.3% Slope - Ramped Access	7704   	Pct 7704	7704   		15  
+2022NOVGEN	1150	7828 - 100 Hoffman Avenue		Firehouse #24	100 Hoffman Ave	Btw Alvarado & 23rd Sts	1.6% Slope	7828   	Pct 7828	7828   		16  
+2022NOVGEN	1153	7052 - 333 Tunnel Ave_		Symphony Church - Cafeteria	333 Tunnel Ave	Btw Lathrop & Visitacion Ave's	3.5 %slope	7052   	Pct 7052	7052   		5  
+2022NOVGEN	1162	7842 - 1670 Noe St		Mission Ed Center - Room 101	1670 Noe St	Corner Of 30th St & Noe	13% Slope for 2ft	7842   	Pct 7842	7842   		16  
+2022NOVGEN	1204	7924 - 2730 Bryant St		Sunshine School - S F Education Fund Rm200e	2730 Bryant St	Btw 25th & 26th Sts	7.5% Slope - Ramped Access	7924   	Pct 7924	7924   		17  
+2022NOVGEN	1210	7207 - 1280 Laguna Street		Western Park Apartments - Community Room	1280 Laguna St	Between Eddy & Ellis	8.3% Slope	7207   	Pct 7207	7207   		7  
+2022NOVGEN	1230	9214 - 2251 Greenwich Street		Firehouse #16 - West Engine Bay	2251 Greenwich St	Btw Steiner & Fillmore	2.2% Slope	9214   	Pct 9214	9214   		21  
+2022NOVGEN	1275	7705 - 321 Taraval St		Covenant Presbyterian Church - Portalhurst Hall	321 Taraval St	Btw Funston & 14th Ave	7% Slope	7705   	Pct 7705	7705   		15  
+2022NOVGEN	1336	9105 - 250 25th Avenue		Rochambeau Playground - Clubhouse	250 25th Ave	Btw California & Lake Sts	4.6% Slope	9105   	Pct 9105	9105   		19  
+2022NOVGEN	1363	7048 - 1298 Girard St		Firehouse #44 - Left Bay	1298 Girard St	Btw Wilde & Harkness	0.7% Slope	7048   	Pct 7048	7048   		5  
+2022NOVGEN	1425	7806 - 25 Sanchez St		Community Room	25 Sanchez St	Btw Duboce & 14th St	7.4% Slope - Ramped Access	7806   	Pct 7806	7806   		16  
+2022NOVGEN	1442	7522 - 403 Rose St		Hayes Valley Apartments - Community Room	403 Rose St	Btw Buchanan & Webster	1.2 % Slope	7522   	Pct 7522	7522   		10  
+2022NOVGEN	1450	7503 - 1760 Bush St		1760 Bush Street Apartments - Community Rm	1760 Bush St	Btw Octavia & Gough	8.3% Slope - Ramped Access	7503   	Pct 7503	7503   		10  
+2022NOVGEN	1451	7034 - 1295 Shafter Ave		Firehouse #17	1295 Shafter Ave	Btw Hawes & Ingalls	8.3% Slope	7034   	Pct 7034	7034   		4  
+2022NOVGEN	1488	9306 - 1088 Green Street		St. Andrew's Society Of San Francisco	1088 Green St	Btw Jones & Leavenworth	0.6% Slope	9306   	Pct 9306	9306   		23  
+2022NOVGEN	1530	7051 - 1249 Jamestown Ave		United House Of Prayer Church - Hall	1249 Jamestown Ave	Btw 3rd St & Exeter	Wheelchair Ramp Above 8.3% Slope for 6'. Curbside Voting Avail	7051   	Pct 7051	7051   		4  
+2022NOVGEN	1554	9109 - 251 18th Ave		Richmond Rec Center - Multi Purpose Room	251 18th Ave	Btw California & Clement	2.5% Slope	9109   	Pct 9109	9109   		19  
+2022NOVGEN	1555	7307 - 1814 Stockton Street		Firehouse #28 - Right Bay	1814 Stockton St	Btw Greenwich & Lombard	3.4% Slope	7307   	Pct 7307	7307   		8  
+2022NOVGEN	1556	9508 - 1443 Grove Street		Firehouse #21	1443 Grove St	Btw Baker & Broderick	7.4% Slope	9508   	Pct 9508	9508   		25  
+2022NOVGEN	1557	1111 - 431 Capitol Ave		Sheridan School - Auditorium Lobby	431 Capitol Ave	Enter At Farallones Btw Capitol & Orizaba	8.3% Slope - Ramped Access	1111   	Pct 1111	1111   		2  
+2022NOVGEN	1563	9112 - 360 18th Avenue		Y M C A Richmond District	360 18th Ave	Btw Geary Blvd & Clement St	6.5% Slope	9112   	Pct 9112	9112   		19  
+2022NOVGEN	1631	7914 - 3261 23rd Street (loc 7918)		Mission United Presbyterian Church - Social Hall	3261 23rd St	Between Capp & Mission Sts	5.6% Slope	7914   	Pct 7914	7914   		17  
+2022NOVGEN	1643	9141 - 680 18th Avenue		Argonne School - Multi Purpose Rm	680 18th Ave	Enter On 17th Ave Btw Balboa & Cabrillo	2.4% Slope	9141   	Pct 9141	9141   		19  
+2022NOVGEN	1658	7523 - 333 Fell St		Fell St Housing - Community Room	333 Fell St	Between Octavia & Gough	2.6% Slope	7523   	Pct 7523	7523   		10  
+2022NOVGEN	1717	9113 - 235 12th Avenue		Sutro Elementary School - Cafeteria	235 12th Ave	Btw Clement & California	1.0% Slope	9113   	Pct 9113	9113   		19  
+2022NOVGEN	1743	7502 - 1840 Sutter Street		Japanese Cultural & Community Center - Conference Rm	1840 Sutter St	Btw Webster & Buchanan	5.9% Slope	7502   	Pct 7502	7502   		10  
+2022NOVGEN	1749	9201 - 1299 Storey Avenue		Log Cabin	1299 Storey Ave	Btw Lincoln Bl & Ralston Ave	4.9% Slope	9201   	Pct 9201	9201   		21  
+2022NOVGEN	1762	7329 - 1051 Taylor Street		Grace Cathedral Church - Conference Rm.	1051 Taylor St	Btw California & Sacramento	4.2% Slope	7329   	Pct 7329	7329   		8  
+2022NOVGEN	1767	9445 - 2601 40th Ave (loc 9444)		South Sunset Playground - Community Room	2601 40th Ave	Corner Of 40th Ave & Vincente	2.3% Slope	9445   	Pct 9445	9445   		24  
+2022NOVGEN	1789	1141 - 648 Lisbon St		Garage	648 Lisbon St	Btw Italy And France	6.3% Slope	1141   	Pct 1141	1141   		3  
+2022NOVGEN	1797	1143 - 720 Moscow Street		Firehouse #43 - Right Bay	720 Moscow St	Btw Italy & France	0.6% Slope	1143   	Pct 1143	1143   		3  
+2022NOVGEN	1827	9701 - 1290 16th Avenue		Firehouse #22	1290 16th Ave	Corner Of 16th Ave & Irving	6.8% Slope	9701   	Pct 9701	9701   		27  
+2022NOVGEN	1859	9703 - 1290 5th Avenue		St John Of God Catholic Church	1290 5th Ave	Btw Irving & Hugo	7.9% Slope - Ramped Access	9703   	Pct 9703	9703   		28  
+2022NOVGEN	1861	7849 - 209 Randall Street		Garage	209 Randall St	Btw Whitney & Sanchez	4.9% Slope	7849   	Pct 7849	7849   		16  
+2022NOVGEN	1871	7033 - 5 Commer Ct		Bayview Apartments - Community Rm	5 Commer Ct	Enter On Commer & Garlington	8.3% Slope - Ramped Access	7033   	Pct 7033	7033   		4  
+2022NOVGEN	1883	7036 - 201 Williams Avenue		Bayview Police Station - Lobby	201 Williams Ave	Enter On Williams At Newhall	3.4% Slope	7036   	Pct 7036	7036   		4  
+2022NOVGEN	1899	9243 - 1362 Post St		Intercultural Institute Of CA Korean Center - Community Rm	1362 Post St	Btw Gough & Franklin	4.1% Slope	9243   	Pct 9243	9243   		22  
+2022NOVGEN	1910	7605 - 1500 Howard St		The Arc San Francisco - Gallery 1	1500 Howard St	Btw Lafayette & 11th St	6.4% Slope	7605   	Pct 7605	7605   		12  
+2022NOVGEN	1917	9128 - 441 12th Ave		Firehouse #31 - Left Bay	441 12th Ave	Btw Geary Bl & Anza St	2.6% Slope	9128   	Pct 9128	9128   		19  
+2022NOVGEN	1976	7627 - 36 Bluxome Street		Firehouse #8 - Chief's Bay	36 Bluxome St	Btw 4th & 5th Sts	1.0% Slope	7627   	Pct 7627	7627   		12  
+2022NOVGEN	2001	7043 - 243 Rey Street		Heritage Homes - Community Rm	243 Rey St	Enter on Towerside Btw Rey & Schwerin	2.8% Slope	7043   	Pct 7043	7043   		5  
+2022NOVGEN	2055	1106 - 345 Randolph Street		Ocean View  Library - Story Room	345 Randolph St	Btw Victoria & Ramsell	3.1% Slope	1106   	Pct 1106	1106   		2  
+2022NOVGEN	2092	7534 - 246 Eddy Street (loc 7533)		Boeddeker Park & Clubhouse - Meeting Room	246 Eddy St	Btw Jones & Taylor	8.1% Slope - Ramped Access	7534   	Pct 7534	7534   		10  
+2022NOVGEN	2094	9728 - 50 Chumasero Drive		Villas Park Merced - Lobby	50 Chumasero Dr	Between Font & Galindo	7.8% Slope	9728   	Pct 9728	9728   		27  
+2022NOVGEN	2097	9423 - 3925 Noriega Street		Sunset Neighborhood Beacon Ctr - Computer Rm	3925 Noriega St	Between 46th & 47th Avenue	3.0% Slope	9423   	Pct 9423	9423   		24  
+2022NOVGEN	2129	7317 - 838 Pacific Avenue		Ping Yuen - Community Room	838 Pacific Ave	Btw Powell & Cordelia	4.8% Slope	7317   	Pct 7317	7317   		8  
+2022NOVGEN	2148	7315 - 1145 Pacific Avenue		Garage	1145 Pacific Ave	Btw Jones &Taylor	4.7% Slope	7315   	Pct 7315	7315   		8  
+2022NOVGEN	2155	9233 - 1 Loraine Ct		Columbarium	1 Loraine Ct	Off Anza Btw Stanyan St & Arguello Bl	2.4% Slope	9233   	Pct 9233	9233   		21  
+2022NOVGEN	2168	7014 - 700 Pennsylvania Ave		Muni Barn - Room D106	700 Pennsylvania Ave	Btw 22nd & 23rd Sts	4.0% Slope	7014   	Pct 7014	7014   		4  
+2022NOVGEN	2170	7838 - 5157 Diamond Heights Blvd		Casa De Vida Apartments - Garage	5157 Diamond Heights Blvd	Btw Safira Ln & Carnelian Way	7.5% Slope	7838   	Pct 7838	7838   		16  
+2022NOVGEN	2172	9709 - 1689 17th Ave		Garage	1689 17th Ave	Between Moraga and Lawton	2% Slope	9709   	Pct 9709	9709   		27  
+2022NOVGEN	2178	9807 - 463 Buena Vista Ave E (loc 7801)		Garage	463 Buena Vista Ave E	Btw Upper Terrace & Park Hill	2.3% Slope	9807   	Pct 9807	9807   		30  
+2022NOVGEN	2192	7038 - 2111 Jennings St		United Council Of Human Services	2111 Jennings St	Btw Van Dyke & Wallace	0.3% Slope	7038   	Pct 7038	7038   		4  
+2022NOVGEN	2194	9404 - 3030 Judah St		S F Korean United Methodist Church - Fellowship Hall	3030 Judah St	Enter On 36th Ave Btw Judah & Irving	5.6% Slope	9404   	Pct 9404	9404   		24  
+2022NOVGEN	2195	9416 - 3733 Lawton St		Garage	3733 Lawton St	Btw 43rd & 44th Ave	8.3% Slope	9416   	Pct 9416	9416   		24  
+2022NOVGEN	2207	7902 - 1850 Mission St		Arriba Juntos - Computer Lab	1850 Mission St	Btw 14th &15th Sts	1.8% Slope	7902   	Pct 7902	7902   		17  
+2022NOVGEN	2227	7635 - 10 King St		Steamboat Point Apartments - Community Room	10 King St	Btw 2nd & Townsend	4.6% Slope	7635   	Pct 7635	7635   		12  
+2022NOVGEN	2241	1132 - 225 Pioche Street		Portola Baptist Church	225 Pioche St	Btw Harvard & Oxford	0.9% Slope	1132   	Pct 1132	1132   		3  
+2022NOVGEN	2249	7613 - 299 Vermont Street		Firehouse #29	299 Vermont St	Btw 15th & 16th Sts	5.8% Slope	7613   	Pct 7613	7613   		12  
+2022NOVGEN	2250	1108 - 218 Granada Avenue		New Providence Baptist Church	218 Granada Ave	Between Ocean Ave & Holloway	3.4% Slope	1108   	Pct 1108	1108   		1  
+2022NOVGEN	2254	9235 - 2640 Geary Blvd		Muni Barn Classroom C	2640 Geary Blvd	Btw Masonic Ave & Presidio Ave	8.3% Slope	9235   	Pct 9235	9235   		21  
+2022NOVGEN	2256	9719 - 2560 18th Avenue		Collins Center	2560 18th Ave	Btw Ulloa & Vicente	8.3% Slope - Ramped Access	9719   	Pct 9719	9719   		27  
+2022NOVGEN	2257	7945 - 2430 San Bruno Avenue		Firehouse #42 - Left Bay	2430 San Bruno Ave	Btw Silliman & Silver	3.1% Slope	7945   	Pct 7945	7945   		18  
+2022NOVGEN	2260	7331 - 1199 Bush Street		Saint Francis Medical - Suite 300	1199 Bush St	Btw Hyde & Leavenworth - No Entrance At Main Hospital	5.9% Slope For 3ft	7331   	Pct 7331	7331   		8  
+2022NOVGEN	2268	1109 - 1099 Capitol Ave		Holloway Terrace	1099 Capitol Ave	Corner Of Capitol & Holloway	4.3% Slope	1109   	Pct 1109	1109   		2  
+2022NOVGEN	2269	7645 - 850 Ave I  Bldg 497		Ship Shape Community Center	850 Avenue I	Btw 10th & 11th Sts & I & M Aves	5.0% slope	7645   	Pct 7645	7645   		12  
+2022NOVGEN	2270	1113 - 650 Capitol Ave		Minnie & Lovie Rec Center - Multi Purpose Room	650 Capitol Ave	Btw Minerva & Montana	8.3% Slope - Ramped Access	1113   	Pct 1113	1113   		2  
+2022NOVGEN	2272	7628 - 225 King Street		Rich Sorro Commons - Lobby	225 King St	Btw 3rd & 4th Sts	0.3% Slope	7628   	Pct 7628	7628   		12  
+2022NOVGEN	2273	7001 - 500 De Haro Street		St Gregory Church - Rotunda	500 De Haro St	Btw 18th & Mariposa Sts	8.0% Slope	7001   	Pct 7001	7001   		4  
+2022NOVGEN	2276	7938 - 1000 Tompkins Ave - Bldg  A		Market Heights Apts - Garage	1000 Tompkins Ave	Btw Putnam & Bradford	8.3% Slope - Ramped Access	7938   	Pct 7938	7938   		17  
+2022NOVGEN	2278	7623 - 125 6th Street		The Rose Hotel - Lobby	125 6th St	Btw Minna & Mission	1.5% Slope	7623   	Pct 7623	7623   		12  
+2022NOVGEN	2280	9446 - 20 Crestlake Drive		Garage	20 Crestlake Dr	Btw Sloat Blvd & Gabilan Way	5.0% Slope	9446   	Pct 9446	9446   		24  
+2022NOVGEN	2296	9104 - 450 30th Ave		Presidio Middle School - Auditorium Lobby	450 30th Ave	Btw Clement & Geary	4.9% Slope	9104   	Pct 9104	9104   		19  
+2022NOVGEN	2302	7301 - 455 Bay St		Northbeach Place - Community Rm	455 Bay St	Btw Mason & Taylor	4.5% Slope	7301   	Pct 7301	7301   		8  
+2022NOVGEN	2306	7827 - 885 Corbett Ave		Garage - Enter Through Glass Door	885 Corbett Ave	Near Corner Of Hopkins	4.9% Slope	7827   	Pct 7827	7827   		16  
+2022NOVGEN	2312	7917 - 2700 22nd St		Garage	2700 22nd St	Corner Of York & 22nd Sts	6.0% Slope	7917   	Pct 7917	7917   		17  
+2022NOVGEN	2334	7644 - 600 The Embarcadero		Delancey Street - Store Space	600 The Embarcadero	Btw Brannan & Townsend	4.0% Slope	7644   	Pct 7644	7644   		12  
+2022NOVGEN	2353	9504 - 1250 Waller St		Chinese Immersion School - Room 204	1250 Waller St	Btw Central & Masonic	6% Slope	9504   	Pct 9504	9504   		25  
+2022NOVGEN	2354	9131 - 450 7th Ave		Richmond Police Station - Community Room	450 7th Ave	Btw Geary Blvd & Anza St	5.6% Slope	9131   	Pct 9131	9131   		19  
+2022NOVGEN	2366	9802 - 1145 Stanyan St		Firehouse #12	1145 Stanyan St	Btw Grattan & Alma	1.2% Slope	9802   	Pct 9802	9802   		30  
+2022NOVGEN	2378	9303 - 2412 Polk St		Garage	2412 Polk St	Btw Union & Filbert	1.8% Slope	9303   	Pct 9303	9303   		23  
+2022NOVGEN	2380	9242 - 1765 Van Ness Ave		Store-Relax The Back	1765 Van Ness Ave	Between Clay & Sacramento	2.7% Slope	9242   	Pct 9242	9242   		22  
+2022NOVGEN	2383	9205 - 3632 Fillmore St		Garage	3632 Fillmore St	Btw North Point & Bay Sts	2.8% Slope	9205   	Pct 9205	9205   		21  
+2022NOVGEN	2392	9426 - 1935 32nd Ave		Firehouse #18 - Left Bay	1935 32nd Ave	Between Pacheco & Ortega	2.7% Slope	9426   	Pct 9426	9426   		24  
+2022NOVGEN	2397	9234 - 20 Cook St		Sfusd Office - Assembly Room	20 Cook St	Off Geary Blvd.	8.3% Slope	9234   	Pct 9234	9234   		21  
+2022NOVGEN	2414	9106 - 463 28th Ave		Garage	463 28th Ave	Between Geary & Clement	0.4% Slope	9106   	Pct 9106	9106   		19  
+2022NOVGEN	2418	9716 - 540 Ortega St		Garage	540 Ortega St	Btw 11th & 14th Aves	4.0% Slope	9716   	Pct 9716	9716   		27  
+2022NOVGEN	2427	9503 - 1563 Page St		Urban School Of S. F. - Conference Room	1563 Page St	Btw Masonic & Ashbury	8.1% Slope Ramped Access	9503   	Pct 9503	9503   		25  
+2022NOVGEN	2434	9509 - 1168 Page St		Garage	1168 Page St	Btw Baker & Broderick	4.6% Slope	9509   	Pct 9509	9509   		25  
+2022NOVGEN	2443	1121 - 483 Ellington Ave		Garage	483 Ellington Ave	Btw Whipple & Naglee	3.6% Slope	1121   	Pct 1121	1121   		2  
+2022NOVGEN	2445	7042 - 745 Velasco Ave		Saint Phillips Missionary Baptist Church	745 Velasco Ave	Btw Santos & Castillo	6.3% Slope	7042   	Pct 7042	7042   		5  
+2022NOVGEN	2446	7634 - 698 2nd St		S F F D Headquarters	698 2nd St	Corner Of 2nd & Townsend	8.3% Slope Ramped Access	7634   	Pct 7634	7634   		12  
+2022NOVGEN	2452	7931 - 514 Peralta Ave		Garage	514 Peralta Ave	Btw Ripley & Esmeralda	7.5% Slope	7931   	Pct 7931	7931   		17  
+2022NOVGEN	2479	1131 - 263 Maynard St		Garage	263 Maynard St	Btw Congdon & Gladstone	3% Slope	1131   	Pct 1131	1131   		3  
+2022NOVGEN	2494	7716 - 366 Marietta Dr		Garage	366 Marietta Dr	Btw Arroyo Way & Teresita Blvd	3.6% Slope	7716   	Pct 7716	7716   		15  
+2022NOVGEN	2496	7823 - 3753 21st St		Garage	3753 21st St	Btw Noe & Sanchez Sts	8.3% Slope	7823   	Pct 7823	7823   		16  
+2022NOVGEN	2500	9203 - 1867 Jefferson St		Garage	1867 Jefferson St	Btw Divisadero & Scott	3.5% Slope	9203   	Pct 9203	9203   		21  
+2022NOVGEN	2515	7921 - 2774 Folsom St		Garage	2774 Folsom St	Btw 23rd & 24th Sts	0.9% Slope	7921   	Pct 7921	7921   		17  
+2022NOVGEN	2517	7504 - 850 Broderick St		Zygmunt Arendt House - Program Room	850 Broderick St	Enter On Broderick Btw Golden Gate & Mcallister	2.3% Slope	7504   	Pct 7504	7504   		11  
+2022NOVGEN	2524	9401 - 1296 La Playa St		Garage	1296 La Playa St	Btw Irving & Lincoln	5.0% Slope	9401   	Pct 9401	9401   		24  
+2022NOVGEN	2532	7809 - 128 Eureka St		Garage	128 Eureka St	Btw 18th & 19th Sts	4.2% Slope	7809   	Pct 7809	7809   		16  
+2022NOVGEN	2533	7701 - 99 Saint Germain Ave		Garage	99 Saint Germain Ave	Btw Saint Germain & Glenbrook	3.3% Slope	7701   	Pct 7701	7701   		14  
+2022NOVGEN	2545	9304 - 2200 Larkin St		Garage	2200 Larkin St	Corner Of Larkin & Green	8.2% Slope	9304   	Pct 9304	9304   		23  
+2022NOVGEN	2558	9124 - 551 26th Ave		Firehouse #14 - Right Bay	551 26th Ave	Btw Anza St & Geary Blvd	3.0 % Slope	9124   	Pct 9124	9124   		19  
+2022NOVGEN	2583	9221 - 1905 Broadway		Garage	1905 Broadway	Between Laguna And Octavia Streets	6.5% Slope	9221   	Pct 9221	9221   		21  
+2022NOVGEN	2584	7819 - 65 Grand View Ave		Garage	65 Grand View Ave	Romain & Grand View Terrace	8.3% Slope	7819   	Pct 7819	7819   		16  
+2022NOVGEN	2593	9439 - 2316 Vicente St		Church - Living Water Fellowship	2316 Vicente St	Btw 34th & 35th Ave	4.8% Slope	9439   	Pct 9439	9439   		24  
+2022NOVGEN	2594	9707 - 731 Judah St		Garage	731 Judah St	Btw 12th Ave & Funston	5.7% Slope	9707   	Pct 9707	9707   		27  
+2022NOVGEN	2603	7911 - 2300 Folsom St		Firehouse #7	2300 Folsom St	Corner Folsom & 19th Sts	3.9% Slope	7911   	Pct 7911	7911   		17  
+2022NOVGEN	2608	7813 - 290 Dolores St		Congregation Sha'ar Zahav - Lobby	290 Dolores St	Btw 16th & 15th Sts	4.2% slope	7813   	Pct 7813	7813   		16  
+2022NOVGEN	2623	1138 - 542 Moscow St		Garage	542 Moscow St	Btw Russia & Persia	1.2% Slope	1138   	Pct 1138	1138   		3  
+2022NOVGEN	2631	9232 - 3150 Sacramento St		Presidio Library - Program Room	3150 Sacramento St	Btw Lyon & Baker	8.2% Slope - Ramped Access	9232   	Pct 9232	9232   		21  
+2022NOVGEN	2632	7004 - 1490 19th St		St Teresa Of Avila Church - Sammon Hall	1490 19th St	Enter On Connecticut Btw 18th & 19th Sts	4.6% Slope	7004   	Pct 7004	7004   		4  
+2022NOVGEN	2633	1102 - 446 Randolph St (loc 1105)		I. T. Bookman Comm Ctr - Multi Purpose Rm	446 Randolph St	Btw Arch & Ramsell	4.8% Slope - Ramped Access	1102   	Pct 1102	1102   		1  
+2022NOVGEN	2636	9403 - 1342 41st Ave		Garage	1342 41st Ave	Btw Irving & Judah	3.8% Slope	9403   	Pct 9403	9403   		24  
+2022NOVGEN	2651	7513 - 715 Scott St		Garage	715 Scott St	Btw Grove & Fulton	2.3% Slope	7513   	Pct 7513	7513   		10  
+2022NOVGEN	2660	7834 - 3531 22nd St		Edison Charter School - Auditorium	3531 22nd St	Enter On 22nd St Btw Dolores & Chattanooga	1.5% Slope	7834   	Pct 7834	7834   		16  
+2022NOVGEN	2662	7327 - 1300 Polk St		First Congregational Church Of S F - Ed Steiner Hall	1300 Polk St	Enter On Polk At Bush	1.6% Slope	7327   	Pct 7327	7327   		8  
+2022NOVGEN	2663	9435 - 3595 Taraval St		Congregation Am Tikvah - Social Hall	3595 Taraval St	Enter At Taraval & 46th Ave	5.9% Slope	9435   	Pct 9435	9435   		24  
+2022NOVGEN	2668	9734 - 570 Joost Ave		Garage	570 Joost Ave	Btw Edna & Foerster Sts	7.3% Slope	9734   	Pct 9734	9734   		27  
+2022NOVGEN	2674	7715 - 390 Melrose Ave		Garage	390 Melrose Ave	Corner Of Gennessee & Melrose	3.7% Slope	7715   	Pct 7715	7715   		15  
+2022NOVGEN	2676	7934 - 1419 Cortland Ave		Garage	1419 Cortland Ave	Btw Bradford & Nebraska	6.6% Slope	7934   	Pct 7934	7934   		17  
+2022NOVGEN	2679	7905 - 1855 Folsom St		U C S F Mission Center - Confer Rm #126	1855 Folsom St	Entrance On 15th Btw Folsom & Harrison Sts	8.3% Slope - Ramped Access	7905   	Pct 7905	7905   		17  
+2022NOVGEN	2685	7519 - 626 Haight St		Garage	626 Haight St	Btw Steiner & Pierce	3.6% Slope	7519   	Pct 7519	7519   		10  
+2022NOVGEN	2692	9224 - 1901 Franklin St		Golden Gate Church - Garage	1901 Franklin St	Enter Off Clay St Btw Franklin & Gough	8.3% Slope	9224   	Pct 9224	9224   		21  
+2022NOVGEN	2694	9211 - 1800 Chestnut St		Moscone Rec Ctr - Community Room	1800 Chestnut St	Intersection Of Chestnut & Buchanan Sts	8.2% Slope - Ramped Access	9211   	Pct 9211	9211   		21  
+2022NOVGEN	2699	9442 - 2477 21st Ave		Garage	2477 21st Ave	Btw Ulloa & Taraval St	7.5% Slope	9442   	Pct 9442	9442   		24  
+2022NOVGEN	2710	7829 - 4323 23rd St		Garage	4323 23rd St	Btw Hoffman & Douglass St	1.3% Slope	7829   	Pct 7829	7829   		16  
+2022NOVGEN	2724	7006 - 654 Minnesota St		U C S F Mission Bay - Lobby	654 Minnesota St	Btw 18th & 19th Sts	4.2% Slope	7006   	Pct 7006	7006   		4  
+2022NOVGEN	2725	7622 - 1505 4th St		U C S F Housing - Comm Room	1505 4th St	Enter At Nelson Rising Lane Btw 3rd & 4th Sts	4.9% Slope	7622   	Pct 7622	7622   		12  
+2022NOVGEN	2728	7901 - 390 Valencia St		Valencia Gardens - Community Room	390 Valencia St	Enter Off Valencia At The Corner Of 15th St	2.7% Slope	7901   	Pct 7901	7901   		17  
+2022NOVGEN	2735	7619 - 225 Berry St		Mission Creek Senior - Community Room	225 Berry St	Btw 4th & 5th Sts	3.5% Slope	7619   	Pct 7619	7619   		12  
+2022NOVGEN	2741	9114 - 350 10th Ave		Richmond Branch Library - Program Room	350 10th Ave	Btw Geary & Clement	3.2% Slope	9114   	Pct 9114	9114   		19  
+2022NOVGEN	2748	7854 - 118 Rousseau St		Garage	118 Rousseau St	Btw Bosworth & Mirando	8.3% Slope	7854   	Pct 7854	7854   		16  
+2022NOVGEN	2751	7612 - 934 Brannan St		S O M Arts Cultural Center	934 Brannan St	Btw 8th and 9th Sts	8.3% Slope - Ramped Access	7612   	Pct 7612	7612   		12  
+2022NOVGEN	2763	7306 - 1630 Stockton St		S F Italian Athletic Club - Upstairs Function Room	1630 Stockton St	Btw Union & Filbert St	1.1% Slope	7306   	Pct 7306	7306   		8  
+2022NOVGEN	2764	7515 - 608 Hayes St		Neighborhood Baptist Church - Confer Rm	608 Hayes St	Btw Laguna & Buchanan	2.2% Slope	7515   	Pct 7515	7515   		10  
+2022NOVGEN	2773	7031 - 1601 Lane St		Bayview Y M C A - Gymnasium	1601 Lane St	Corner Of Lane & Revere	2.4% Slope	7031   	Pct 7031	7031   		4  
+2022NOVGEN	2779	7525 - 516 O'farrell St		Crosby Hotel - Activity Room	516 O'farrell St	Btw Jones & Leavenworth	2.9% Slope	7525   	Pct 7525	7525   		11  
+2022NOVGEN	2780	9139 - 626 20th Ave		Garage	626 20th Ave	Btw Balboa & Cabrillo Sts	0.1% Slope	9139   	Pct 9139	9139   		19  
+2022NOVGEN	2781	9225 - 3820 Washington St		Garage	3820 Washington St	Btw Maple & Cherry Sts	0.5% Slope	9225   	Pct 9225	9225   		21  
+2022NOVGEN	2795	7319 - 1751 Sacramento St		Old First Presbyterian Church - Fellowship Hall	1751 Sacramento St	Btw Polk St & Van Ness	1.3% Slope	7319   	Pct 7319	7319   		8  
+2022NOVGEN	2796	7839 - 829 Duncan St		Garage	829 Duncan St	Btw Diamond Heights Blvd & Douglass St	2.1% Slope	7839   	Pct 7839	7839   		16  
+2022NOVGEN	2799	7323 - 1135 Powell St		Chinatown Branch Library - Comm Rm	1135 Powell St	Btw Jackson & Washington	4.0% Slope	7323   	Pct 7323	7323   		8  
+2022NOVGEN	2817	9202 - 218 Lincoln Blvd		Firehouse #51	218 Lincoln Blvd	Enter from Graham btw Lincoln Blvd & French Ct	3.5% Slope	9202   	Pct 9202	9202   		21  
+2022NOVGEN	2821	7035 - 195 Kiska Road		Willie Mays Boys And Girls Clubhouse - Rm 103	195 Kiska Rd	Btw Ingalls & Dormitory	8.3% Slope	7035   	Pct 7035	7035   		4  
+2022NOVGEN	2822	7039 - 1701 Visitacion Ave		Coffman Pool - Lobby	1701 Visitacion Ave	Enter On Visitacion At Hahn	1.8% Slope	7039   	Pct 7039	7039   		5  
+2022NOVGEN	2830	1147 - 301 Rolph St		Cordova Market	301 Rolph St	Btw Naples & Cordova	0.5% Slope	1147   	Pct 1147	1147   		3  
+2022NOVGEN	2854	9702 - 1199 9th Ave		County Fair Building - Gallery	1199 9th Ave	Btw Lincoln & MLK Drive	4.9% Slope	9702   	Pct 9702	9702   		27  
+2022NOVGEN	2864	7526 - 650 Eddy St		Arnet Watson Apartments - Lobby	650 Eddy St	Btw Larkin & Polk	1.3% Slope	7526   	Pct 7526	7526   		10  
+2022NOVGEN	2865	7602 - 170 Otis St		Human Services Agency - Born Auditorium	170 Otis St	Btw Duboce & Mccoppin	3.4% Slope	7602   	Pct 7602	7602   		12  
+2022NOVGEN	2866	7609 - 175 7th Street (loc 7615)		West Bay Pilipino Multi Service Center	175 7th St	Btw Natoma & Howard	2.6% Slope	7609   	Pct 7609	7609   		12  
+2022NOVGEN	2870	9735 - 236 Monterey Blvd		Sunnyside Conservatory	236 Monterey Blvd	Btw Baden & Congo Sts	7.6% Slope - Ramped Access	9735   	Pct 9735	9735   		27  
+2022NOVGEN	2873	9406 - 2625 Lincoln Way (loc 9405)		Garage	2625 Lincoln Way	Btw 27th And 28th Aves	8.0% Ramped Access	9406   	Pct 9406	9406   		24  
+2022NOVGEN	2878	9411 - 3240 Lawton St		Garage	3240 Lawton St	Btw 38th & 39th Aves	7.6% Slope	9411   	Pct 9411	9411   		24  
+2022NOVGEN	2884	7846 - 43 Ora Way		Goldmine Hill Homeowners Assoc - Rec Rm	43 Ora Way	Btw Goldmine & Topaz	5% Slope	7846   	Pct 7846	7846   		16  
+2022NOVGEN	2900	1114 - 155 Sadowa St		Garage	155 Sadowa St	Btw Capitol & Plymouth	7.4% Slope	1114   	Pct 1114	1114   		2  
+2022NOVGEN	2905	7532 - 44 Mcallister St		Civic Center Residence - Front Lobby	44 Mcallister St	Btw Jones & Leavenworth	2.0% Slope	7532   	Pct 7532	7532   		10  
+2022NOVGEN	2908	7908 - 2248 Mission St		Ana's Salon	2248 Mission St	Btw 18th & 19th Sts	5.8% Slope	7908   	Pct 7908	7908   		17  
+2022NOVGEN	2942	7047 - 3560 San Bruno Ave (loc 7048)		New Greater Prosperity Church - Sanctuary	3560 San Bruno Ave	Btw Harkness & Wilde	2.1% Slope	7047   	Pct 7047	7047   		5  
+2022NOVGEN	2948	7309 - 840 Broadway		Jean Parker Elementary School - Multi Purpose Room	840 Broadway	Btw Powell & Mason	5.6% Slope - Ramped Access	7309   	Pct 7309	7309   		8  
+2022NOVGEN	2952	7324 - 1199 Mason St		Betty Ong Rec Center - Lobby	1199 Mason St	Enter On Mason At Washington	1.8% Slope	7324   	Pct 7324	7324   		8  
+2022NOVGEN	2957	7614 - 1008 Mission Street		Bayanihan Community Center - Todco Community Room	1008 Mission St	At Corner Of Mission & 6th St	3.0% Slope	7614   	Pct 7614	7614   		12  
+2022NOVGEN	2963	7918 - 1220 Valencia St		Templo De La Fe - Church Lobby	1220 Valencia St	Btw 23rd & 24th Sts	1% Slope	7918   	Pct 7918	7918   		17  
+2022NOVGEN	2969	9122 - 550 37th Ave		Anza Branch Library - Program Room	550 37th Ave	Btw Geary Blvd & Anza St	5.6% Slope	9122   	Pct 9122	9122   		19  
+2022NOVGEN	2976	7505 - 1150 Scott St		Robert B Pitts - Community Room	1150 Scott St	Btwn Eddy & Turk	8.3% Slope	7505   	Pct 7505	7505   		10  
+2022NOVGEN	2985	7824 - 990 Church St		Theresa S. Mahler School - Room 4	990 Church St	Btw 22nd St & Hill St	8.0 % Slope	7824   	Pct 7824	7824   		16  
+2022NOVGEN	3001	7851 - 126 Chenery St		Garage	126 Chenery St	Btw Randall & Fairmount Sts	5.0% Slope	7851   	Pct 7851	7851   		16  
+2022NOVGEN	3009	7607 - 1346 Folsom St		Tenderloin Neighborhood Develop - Lobby	1346 Folsom St	Btw 9th St & Dore	2.6% Slope	7607   	Pct 7607	7607   		12  
+2022NOVGEN	3015	9512 - 1550 Scott St		Western Addition Library - Program Rm	1550 Scott St	Btw Post & Geary	4.8% Slope	9512   	Pct 9512	9512   		25  
+2022NOVGEN	3020	7718 - 1298 Ocean Ave (loc 9732)		Ingleside Branch Library - Program Rm	1298 Ocean Ave	Btw Plymouth And Brighton	2.0% Slope	7718   	Pct 7718	7718   		15  
+2022NOVGEN	3035	7928 - 28 Mirabel Avenue		Garage	28 Mirabel Ave	Btw Coso Ave & Shotwell St	7.6% Slope	7928   	Pct 7928	7928   		17  
+2022NOVGEN	3037	9137 - 855 27th Ave		Fulton Playground - Fieldhouse	855 27th Ave	Btw Fulton & Cabrillo Sts	4.5% Slope	9137   	Pct 9137	9137   		19  
+2022NOVGEN	3052	7336 - 450 Sutter Street		450 Sutter Building - Mayan Room 310	450 Sutter St	Btw Powell & Stockton	3.6% Slope	7336   	Pct 7336	7336   		8  
+2022NOVGEN	3055	9413 - 2201 Lawton St.		Sunset Rec Center - Club Room	2201 Lawton St	Enter At Lawton & 28th Ave	5.4% Slope	9413   	Pct 9413	9413   		24  
+2022NOVGEN	3059	7026 - 1101 Fairfax Ave		Hunters View - Community Rm	1101 Fairfax Ave	Enter On Fairfax At Acacia	2.9 % Slope	7026   	Pct 7026	7026   		4  
+2022NOVGEN	3077	7617 - 615 7th Street		Hoogasian Flowers - Display Area	615 7th St	Btw Townsend & Brannan	8.3% Ramped Access	7617   	Pct 7617	7617   		12  
+2022NOVGEN	3078	9733 - 722 Monterey Blvd		Garage	722 Monterey Blvd	Btw Ridgewood & Gennessee	4.2% Slope At Entrance	9733   	Pct 9733	9733   		27  
+2022NOVGEN	3093	9717 - 2243 14th Ave		Garage	2243 14th Ave	Btw Rivera And Santiago	7.6% slope - At Entrance	9717   	Pct 9717	9717   		27  
+2022NOVGEN	3105	7037 - 5600 3rd Street		Armstrong Place Senior Housing - Comm Rm	5600 3rd St	Enter On Armstrong Btw 3rd & Lane	1.8% Slope	7037   	Pct 7037	7037   		4  
+2022NOVGEN	3106	7053 - 150 Executive Park Blvd		Executive Park Properties L L C - 1st Floor Conf Rm	150 Executive Park Blvd	Enter Rear Parking Lot Btw Thomas Mellon & Candlestick Cove	7.2% Slope	7053   	Pct 7053	7053   		4  
+2022NOVGEN	3110	1104 - 583 Victoria Street		Garage	583 Victoria St	Btw Holloway & Garfield	7.1% Slope	1104   	Pct 1104	1104   		2  
+2022NOVGEN	3135	7853 - 3718 Mission St.		Hair Junction	3718 Mission St	Btw Highland Ave & Park St	0.9% Slope	7853   	Pct 7853	7853   		16  
+2022NOVGEN	3153	7304 - 850 Columbus Ave -		North Beach Library - Community Rm	850 Columbus Ave	Btw Lombard & Greenwich Sts	0.2 % Slope	7304   	Pct 7304	7304   		8  
+2022NOVGEN	3162	9206 - 1259 Bay Street		Garage	1259 Bay St	Btw Gough & Franklin	0.6% Slope	9206   	Pct 9206	9206   		21  
+2022NOVGEN	3171	7703 - 250 Laguna Honda Blvd		Forest Hill Christian Church - Lobby	250 Laguna Honda Blvd	Btw Plaza & Clarendon	8.3% slope - Ramped Access	7703   	Pct 7703	7703   		15  
+2022NOVGEN	3181	1128 - 2 San Gabriel Avenue		Garage	2 San Gabriel Ave	Btw Capistrano & Santa Rosa	5.0% Slope	1128   	Pct 1128	1128   		2  
+2022NOVGEN	3191	9121 - 687 40th Ave		Garage	687 40th Ave	Btw Balboa & Anza Sts	2.4% Slope	9121   	Pct 9121	9121   		19  
+2022NOVGEN	3195	7904 - 3080 16th St		Mission Hiring Hall	3080 16th St	Btw Valencia & Caledonia Ave	1.1% Slope	7904   	Pct 7904	7904   		17  
+2022NOVGEN	3208	9448 - 2695 19th Ave		Sava Pool - Multipurpose Room	2695 19th Ave	Corner Of 19th Ave & Wawona	5.0 % Slope	9448   	Pct 9448	9448   		24  
+2022NOVGEN	3209	9212 - 1526 Francisco		Garage	1526 Francisco St	Btw Octavia & Laguna Sts	0.4% Slope	9212   	Pct 9212	9212   		21  
+2022NOVGEN	3211	9111 - 249 17th Ave		Garage	249 17th Ave	Btw California & Clement	0.6% Slope	9111   	Pct 9111	9111   		19  
+2022NOVGEN	3212	7801 - 38 Ord St		Garage	38 Ord St	Btw 17th St & Ord CT	1.8% Slope	7801   	Pct 7801	7801   		16  
+2022NOVGEN	3214	7615 - 1028 Howard St		Mercy Housing - Lobby	1028 Howard St	Btw Russ & 6th St	2.5% Slope	7615   	Pct 7615	7615   		12  
+2022NOVGEN	3220	1107 - 8 Capitol Ave		Firehouse #33	8 Capitol Ave	Btw Sagamore & I-280	8.3% Slope - Ramped Access	1107   	Pct 1107	1107   		2  
+2022NOVGEN	3240	9208 - 3201 Baker St		Garage	3201 Baker St	Corner Of Francisco & Baker	3.7% Slope	9208   	Pct 9208	9208   		21  
+2022NOVGEN	3244	9216 - 2835 Broadway		Garage	2835 Broadway	Btw Baker & Broderick Sts	3.7% Slope	9216   	Pct 9216	9216   		21  
+2022NOVGEN	3246	7045 - 201 Leland Ave		Visitacion Valley Branch Library - Program Rm	201 Leland Ave	Btw Cora & Rutland	8.2% Slope - Ramped Access	7045   	Pct 7045	7045   		5  
+2022NOVGEN	3250	7826 - 264 Glenview Dr		Garage	264 Glenview Dr	Near Corner Of Burnett	8.2% Slope	7826   	Pct 7826	7826   		16  
+2022NOVGEN	3258	9213 - 3155 Scott St		Edward I I Youth Housing - Program Room	3155 Scott St	Enter from Scott near corner of Lombard	0.4% Slope	9213   	Pct 9213	9213   		21  
+2022NOVGEN	3262	7642 - 375 Beale St		Metropolitan Transportation Commission - Temazcal Rm 102	375 Beale St	Btw Harrison & Folsom	1.5% Slope	7642   	Pct 7642	7642   		12  
+2022NOVGEN	3269	9712 - 1539 10th Ave		Garage	1539 10th Ave	Btw Kirkham & Lawton	7.9% Slope	9712   	Pct 9712	9712   		27  
+2022NOVGEN	3290	7815 - 71 Landers St		Garage	71 Landers St	Btw 14th & 15th Sts	2.9% Slope	7815   	Pct 7815	7815   		16  
+2022NOVGEN	3291	9228 - 2938 Washington St		Waldorf School - Dakin Hall Lobby	2938 Washington St	Btw Broderick & Divisadero	2.9% Slope	9228   	Pct 9228	9228   		21  
+2022NOVGEN	3302	7201 - 2340 Jackson St		S F Public Montessori School - Auditorium	2340 Jackson St	Btw Webster & Fillmore	8.3% Slope - Ramped Access	7201   	Pct 7201	7201   		6  
+2022NOVGEN	3303	9241 - 2262 California St		Congregation Sherith Israel - Lobby	2262 California St	Between Webster & Buchanan St	8.3% Slope	9241   	Pct 9241	9241   		22  
+2022NOVGEN	3307	7314 - 1965 Larkin St		Helen Wills Park - Garden Room	1965 Larkin St	Btw Broadway & Pacific	8.3% Slope Ramped Access	7314   	Pct 7314	7314   		8  
+2022NOVGEN	3309	7533 - 330 Ellis St		Glide Memorial United Church - Freedom Hall	330 Ellis St	Enter On Taylor Btw Ellis & O' Farrell	8.0% Slope - Ramped Access	7533   	Pct 7533	7533   		10  
+2022NOVGEN	3310	7935 - 176 Highland Ave		Garage	176 Highland Ave	Btw Holly Park Circle & Patton St	3.4% Slope	7935   	Pct 7935	7935   		17  
+2022NOVGEN	3317	9427 - 1201 Ortega St		Lycée Francais - Theatre Lobby	1201 Ortega St	Enter On 19th Ave Btw Ortega & Pacheco	4.0% Slope	9427   	Pct 9427	9427   		24  
+2022NOVGEN	3318	7318 - 808 Kearny St		C C S F - Chinatown North Beach Campus - Lobby	808 Kearny St	Btw Washington & Jackson	1.6% Slope	7318   	Pct 7318	7318   		8  
+2022NOVGEN	3320	9408 - 4242 Lawton St		Garage	4242 Lawton St	Between 48th Ave & Great Hwy	4.7% Slope	9408   	Pct 9408	9408   		24  
+2022NOVGEN	3328	7932 - 246 Bocana St		Garage	246 Bocana St	Btw Cortland & Eugenia	0.5% Slope	7932   	Pct 7932	7932   		17  
+2022NOVGEN	3343	7606 - 758 Natoma St		Hostwell Warehouse	758 Natoma St	Btw 8th & 9th Sts	8.3% Slope	7606   	Pct 7606	7606   		12  
+2022NOVGEN	3345	7639 - 25 Essex St		Rene Cazenave Apartments - Program Rm	25 Essex St	Btw Folsom & Harrison	0.4% Slope	7639   	Pct 7639	7639   		12  
+2022NOVGEN	3347	7807 - 1800 Market St		The S F  L G B T Center - Gallery	1800 Market St	Between Octavia & Laguna	1.2% Slope	7807   	Pct 7807	7807   		16  
+2022NOVGEN	3349	7056 - 2600 Arelious Walker Dr		Alice Griffith Apartments - Multipurpose Rm	2600 Arelious Walker Dr	Enter On Arelious Walker Near Egbert	2% Slope	7056   	Pct 7056	7056   		4  
+2022NOVGEN	3351	7005 - 465 Missouri St		Daniel Webster Elementary School - Cafeteria	465 Missouri St	Enter On Texas Btw 19th & 20th Sts	8.3% Slope - Ramped Access	7005   	Pct 7005	7005   		4  
+2022NOVGEN	3360	7511 - 1050 Mcallister St		Ella Hill Hutch Center - Computer Lab	1050 Mcallister St	Btw Webster & Laguna	7.3% Slope - Ramped Access	7511   	Pct 7511	7511   		10  
+2022NOVGEN	3368	9231 - 2813 Pine St		Garage	2813 Pine St	Btw Broderick & Baker	3.4% Slope	9231   	Pct 9231	9231   		21  
+2022NOVGEN	3375	1137 - 437 Lisbon St		Garage	437 Lisbon St	Btw Russia & Persia	3.9% Slope	1137   	Pct 1137	1137   		3  
+2022NOVGEN	3388	9421 - 1851 Noriega St		Adath Israel Synagogue - Social Hall	1851 Noriega St	Btw 25th Ave & 26th Ave	2.8% Slope	9421   	Pct 9421	9421   		24  
+2022NOVGEN	3394	7049 - 66 Raymond Ave		Asian Pacific American Community Center - Rm 3	66 Raymond Ave	Btw Alpha St & Bayshore Blvd	8.3% Slope - Ramped Access	7049   	Pct 7049	7049   		5  
+2022NOVGEN	3399	9729 - 1300 Junipero Serra Blvd		Saint Thomas More Church - Scanlan Hall	1300 Junipero Serra Blvd	Btw Thomas More & Junipero Serra	6.6% Slope - Ramped Access	9729   	Pct 9729	9729   		27  
+2022NOVGEN	3401	9436 - 3045 Santiago St		S F U S D Special Ed Center - Multi Purpose Rm	3045 Santiago St	Btw 41st & 42nd Aves	3.9% Slope - Ramped Access	9436   	Pct 9436	9436   		24  
+2022NOVGEN	3404	9801 - 321 Carl St		Carl Street Free Library - Garage	321 Carl St	Btw Willard & Hillway	5.0% Slope	9801   	Pct 9801	9801   		30  
+2022NOVGEN	3410	9116 - 251 6th Ave		George Peabody School - Library Media Center	251 6th Ave	Enter On 7th Ave Btw Clement & California	4.5 % Slope	9116   	Pct 9116	9116   		19  
+2022NOVGEN	3412	9123 - 600 32nd Ave		Washington High School - Beacon Teen Center	600 32nd Ave	Enter On 30th Ave Btw Anza & Balboa	5.8% Slope For 2 Feet	9123   	Pct 9123	9123   		19  
+2022NOVGEN	3416	7946 - 363 Princeton St		Garage	363 Princeton St	Princeton St Near Bacon St	4.8% Slope	7946   	Pct 7946	7946   		18  
+2022NOVGEN	3422	7518 - 634 Oak St		Garage	634 Oak St	Btw Fillmore & Webster	4.3% Slope	7518   	Pct 7518	7518   		10  
+2022NOVGEN	3426	7008 - 524 Connecticut St (loc 7007)		Garage	524 Connecticut St	Btw 20th St & Dead End	2.9% Slope	7008   	Pct 7008	7008   		4  
+2022NOVGEN	3434	7009 - 904 22nd St		Rickshaw Bagworks	904 22nd St	Btw Minnesota & Indiana	0.4% Slope	7009   	Pct 7009	7009   		4  
+2022NOVGEN	3440	7717 - 168 Dorado Ter		Garage	168 Dorado Ter	Btw Dorado Terrace & Dead End	7.7% Slope	7717   	Pct 7717	7717   		15  
+2022NOVGEN	3442	1146 - 494 Pope St		Garage	494 Pope St	Enter On Pope At Bellevue	4.8% Slope	1146   	Pct 1146	1146   		3  
+2022NOVGEN	3444	7706 - 261 Wawona St		Garage	261 Wawona St	Between 14th Ave And Vicente St.	6.4% Slope	7706   	Pct 7706	7706   		15  
+2022NOVGEN	3448	7713 - 19 Maywood Dr		Garage	19 Maywood Dr	Between Yerba Buena & Ravenwood	5.9% Slope	7713   	Pct 7713	7713   		15  
+2022NOVGEN	3451	7337 - 333 Bush St		333 Bush Street - Lobby	333 Bush St	Between Kearny St & Trinity Pl	4.9% Slope	7337   	Pct 7337	7337   		8  
+2022NOVGEN	3452	9424 - 3223 Ortega St		Ortega Branch Library - Program Room	3223 Ortega St	Between 39th And 40th Ave	3.0% Slope	9424   	Pct 9424	9424   		24  
+2022NOVGEN	3455	7529 - 290 Turk St		Hospitality House	290 Turk St	Btw Leavenworth & Jones	8.3% Slope	7529   	Pct 7529	7529   		10  
+2022NOVGEN	3456	9136 - 3245 Cabrillo St		Garage	3245 Cabrillo St	Btw 33rd & 34th Aves	3.8% Slope	9136   	Pct 9136	9136   		19  
+2022NOVGEN	3457	7015 - 1275 Minnesota St		Minnesota Street Project - Lounge	1275 Minnesota St	Btw 23rd & 24th Sts	0.3% Slope	7015   	Pct 7015	7015   		4  
+2022NOVGEN	3458	7603 - 1390 Market St		Fox Plaza - Fitness Center	1390 Market St	Enter on Polk btw Market & Hayes	8.3% Slope - Ramped Access	7603   	Pct 7603	7603   		12  
+2022NOVGEN	3459	7638 - 255 Fremont St		Natalie Gubb Commons - Community Room	255 Fremont St	Btw Folsom & Howard	7.9% Slope - Ramped Access	7638   	Pct 7638	7638   		12  
+2022NOVGEN	3466	7024 - 1598 Oakdale Ave		Joseph Lee Rec Center - Multi Purpose Rm	1598 Oakdale Ave	Enter On Newcomb Btw Mendell & Lane	2.6% Slope	7024   	Pct 7024	7024   		4  
+2022NOVGEN	3470	9144 - 700 3rd Ave		Garage	700 3rd Ave	Entrance On Cabrillo Btw 2nd & 3rd Avenues	1.7% Slope	9144   	Pct 9144	9144   		19  
+2022NOVGEN	3481	7811 - 130 Douglass St		Garage	130 Douglass St	Btw Market & 17th Sts	6.1% Slope	7811   	Pct 7811	7811   		16  
+2022NOVGEN	3482	7016 - 1301 Cesar Chavez St		Islais Creek Muni Facility - Community Room	1301 Cesar Chavez St	Enter On Indiana Btw Cesar Chavez & Marin	0.5% Slope	7016   	Pct 7016	7016   		4  
+2022NOVGEN	3483	7841 - 1421 Diamond St		Garage	1421 Diamond St	Btw Duncan & 27th St	1.5% Slope	7841   	Pct 7841	7841   		16  
+2022NOVGEN	3484	9732 - 50 Frida Kahlo Way		C C S F - Visual Arts Building - Lobby	50 Frida Kahlo Way	Enter On Judson Btw Gennessee & Forester	8.3% Slope - Ramped Access	9732   	Pct 9732	9732   		27  
+2022NOVGEN	3487	9723 - 1 North State Dr		Annex 1 - Student Event Center	1 N State Dr	Btw Lake Merced & Campus	7.1% Slope	9723   	Pct 9723	9723   		27  
+2022NOVGEN	3488	9146 - 281 Masonic Ave		Leo T Mc Carthy Center - Room 116	281 Masonic Ave	Btw Turk St & Ewing Terrace	8.3% Slope - Ramped Access - No Parking Avail	9146   	Pct 9146	9146   		19  
+2022NOVGEN	3498	7947 - 430 Somerset St		Garage	430 Somerset St	Btw Bacon & Wayland	2.5% Slope	7947   	Pct 7947	7947   		18  
+2022NOVGEN	3507	9721 - 2690 Ocean Ave		Unity Spiritual Center	2690 Ocean Ave	Btw 19th Ave & Lagunitas	5.6% Slope	9721   	Pct 9721	9721   		27  
+2022NOVGEN	3509	7517 - 141 Scott St		Garage	141 Scott St	Btw Waller & Haight	5.0% Slope	7517   	Pct 7517	7517   		10  
+2022NOVGEN	3510	7637 - 115 Steuart St		The Commonwealth Club	115 Steuart St	Btw Mission & Howard	0.7% Slope	7637   	Pct 7637	7637   		12  
+2022NOVGEN	3512	7202 - 1928 Webster St		Garage	1928 Webster St	Btw California & Pine	1.5% Slope	7202   	Pct 7202	7202   		7  
+2022NOVGEN	3517	1105 - 400 Sargent St		Jose Ortega Elementary School - Lobby	400 Sargent St	Btw Arch & Ramsell	8.2% Slope	1105   	Pct 1105	1105   		2  
+2022NOVGEN	3530	7825 - 708 Guerrero St.		Garage	708 Guerrero St	Btw 19th St & Cumberland St	6.3% Slope	7825   	Pct 7825	7825   		16  
+2022NOVGEN	3532	7814 - 170 Valencia St		S F Gay Men's Chorus - Lobby	170 Valencia St	Btw Mc Coppin & Duboce	4.4% Slope	7814   	Pct 7814	7814   		16  
+2022NOVGEN	3536	7847 - 291 Sussex St		Garage	291 Sussex St	Btw Swiss & Conrad	3.5% Slope	7847   	Pct 7847	7847   		16  
+2022NOVGEN	3537	9129 - 632 11th Ave		Garage	632 11th Ave	Btw Cabrillo & Balboa St's	1.5% Slope	9129   	Pct 9129	9129   		19  
+2022NOVGEN	3543	7334 - 550 Geary St		Hotel Adagio - Ensemble Room	550 Geary St	Enter On Shannon St Btw Geary & Post	0.5% Slope	7334   	Pct 7334	7334   		8  
+2022NOVGEN	3545	7852 - 2825 Diamond St		Glen Park Library - Program Room	2825 Diamond St	Btw Bosworth & Kern	0.3% Slope	7852   	Pct 7852	7852   		16  
+2022NOVGEN	3546	9803 - 728 Cole St		Eco-home - Garage (matter Of Trust Non-profit)	728 Cole St	Btw Beulah & Waller	2.6% Slope	9803   	Pct 9803	9803   		30  
+2022NOVGEN	3553	1119 - 301 Naglee St		Cayuga Playground Clubhouse	301 Naglee Ave	Enter At Corner Of Cayuga & Naglee	3.4% Slope	1119   	Pct 1119	1119   		2  
+2022NOVGEN	3561	9449 - 472 Country Club Dr		Garage	472 Country Club Dr	Btw Country Club & Huntington	4.6% Slope	9449   	Pct 9449	9449   		24  
+2022NOVGEN	3569	7923 - 2773 24th St		Brava Theater - Cabaret Room	2773 24th St	Btw York & Hampshire	7.0% Slope	7923   	Pct 7923	7923   		17  
+2022NOVGEN	3572	1118 - 2584 San Jose Ave		Garage	2584 San Jose Ave	Btw Mt. Vernon & Lakeview	6.3% Slope	1118   	Pct 1118	1118   		2  
+2022NOVGEN	3575	7707 - 44 Vasquez Ave		Garage	44 Vasquez Ave	Btw Balceta Ave & Laguna Honda	5.8% Slope	7707   	Pct 7707	7707   		15  
+2022NOVGEN	3577	1134 - 250 Athens St		Garage	250 Athens St	Btw Avalon & Excelsior	5.0% Slope	1134   	Pct 1134	1134   		3  
+2022NOVGEN	3581	9507 - 1555 Hayes St		Mercy Terrace - Rec Room	1555 Hayes St	Btw Baker & Lyon	6.2% Slope	9507   	Pct 9507	9507   		25  
+2022NOVGEN	3591	1149 - 8 Chicago Way		Garage	8 Chicago Way	Btw Lapham Way & End Of Cul de Sac	2.8% Slope	1149   	Pct 1149	1149   		3  
+2022NOVGEN	3603	9415 - 1690 21st Ave		Sunset Bible Assembly Of God	1690 21st Ave	Btw Lawton & Moraga	0.6% Slope	9415   	Pct 9415	9415   		24  
+2022NOVGEN	3604	9103 - 90 25th Ave		Garage	90 25th Ave	Btw El Camino Del Mar & Scenic	4.1% Slope	9103   	Pct 9103	9103   		19  
+2022NOVGEN	3605	7906 - 1798 Bryant St		Mc Calls Catering & Events - Lobby	1798 Bryant St	Btw 16th & 17th Sts	6.9% Slope	7906   	Pct 7906	7906   		17  
+2022NOVGEN	3608	9107 - 142 20th Ave		Garage	142 20th Ave	Btw Lake & California	4.9% Slope	9107   	Pct 9107	9107   		19  
+2022NOVGEN	3612	7933 - 267 Anderson St		Garage	267 Anderson St	Btw Cortland & Eugenia	1.5% Slope	7933   	Pct 7933	7933   		17  
+2022NOVGEN	3619	7621 - 290 Channel St		Mission Creek Park Pavilion	290 Channel St	Btw El Dorado N & 4th St	3.1% Slope	7621   	Pct 7621	7621   		12  
+2022NOVGEN	3624	9725 - 55 Borica St		Garage	55 Borica St	Btw Holloway & Urbano	3.8% Slope	9725   	Pct 9725	9725   		27  
+2022NOVGEN	3626	9209 - 2248 Francisco St		Garage	2248 Francisco St	Btw Scott & Divisadero	3.2% Slope	9209   	Pct 9209	9209   		21  
+2022NOVGEN	3628	9218 - 2151 Green St		Garage	2151 Green St	Btw Fillmore & Webster	4.4% Slope	9218   	Pct 9218	9218   		21  
+2022NOVGEN	3629	9125 - 479 23rd Ave		Garage	479 23rd Ave	Btw Geary & Anza	2.3% Slope	9125   	Pct 9125	9125   		19  
+2022NOVGEN	3639	9402 - 1279 41st Ave		Garage	1279 41st Ave	Btw Irving & Lincoln	6.5% Slope	9402   	Pct 9402	9402   		24  
+2022NOVGEN	3641	9115 - 4620 California St		St James Episcopal Church - Parish Hall	4620 California St	Btw 8th & 9th Ave	6.8% Slope	9115   	Pct 9115	9115   		19  
+2022NOVGEN	3643	7912 - 701 Alabama St		Mission Language And Vocational School	701 Alabama St	Btw 19th & 20th St	1.7% Slope	7912   	Pct 7912	7912   		17  
+2022NOVGEN	3651	7926 - 3125 Cesar Chavez St		Leonard Flynn School - Cafeteria	3125 Cesar Chavez St	Enter On Harrison Btw Precita & Cesar Chavez	8.3% Slope Ramped Access	7926   	Pct 7926	7926   		17  
+2022NOVGEN	3654	1129 - 293 Cayuga Ave		Garage	293 Cayuga Ave	Btw Tingley & Gorham	5.0% slope	1129   	Pct 1129	1129   		2  
+2022NOVGEN	3657	7907 - 3590 19th St		Apartamentos De La Esperanza - Garage	3590 19th St	Enter Off Guerrero Btw 18th & 19th Sts	8.3% Slope	7907   	Pct 7907	7907   		17  
+2022NOVGEN	3658	1122 - 55 Mount Vernon Ave		Garage	55 Mount Vernon Ave	Btw Ellington & Del Monte	8.2% Slope	1122   	Pct 1122	1122   		2  
+2022NOVGEN	3659	7641 - 333 Harrison St		Rincon Green Apartments - Lobby	333 Harrison St	Btw Beale & Fremont	4.5% Slope	7641   	Pct 7641	7641   		12  
+2022NOVGEN	3661	1124 - 2301 San Jose Ave		Geneva Car Barn & Powerhouse - Lobby	2301 San Jose Ave	Btw Geneva & Niagara	2.2% Slope	1124   	Pct 1124	1124   		2  
+2022NOVGEN	3662	7843 - 1532 Church St		Garage	1532 Church St	Btw 27th St & Duncan St	8.1% Slope	7843   	Pct 7843	7843   		16  
+2022NOVGEN	3669	7624 - 935 Folsom St (loc 7616)		Firehouse #1	935 Folsom St	Btw 5th St & Falmouth	1.3% Slope	7624   	Pct 7624	7624   		12  
+2022NOVGEN	3670	9731 - 3931 Alemany Blvd		Ocean View Shopping Center - Suite 1003	3931 Alemany Blvd	Btw Worcester & St Charles	8.3% Slope - Curb Ramp Access	9731   	Pct 9731	9731   		29  
+2022NOVGEN	3678	7919 - 2989 Mission St.		Endgames Improv - Storefront	2989 Mission St	Btw 25th & 26th Sts	8.3% Slope	7919   	Pct 7919	7919   		17  
+2022NOVGEN	3687	7913 - 1125 Valencia St		CCSF - Mission Campus - Main Lobby	1125 Valencia St	Btw 22nd & 23rd Sts	5% Slope	7913   	Pct 7913	7913   		17  
+2022NOVGEN	3688	7714 - 111 Robinhood Dr		Garage	111 Robinhood Dr	Btw Landsdale Ave & Landsdale Ave	4.6% Slope	7714   	Pct 7714	7714   		15  
+2022NOVGEN	3689	7516 - 500 Hayes St		La Boulangerie	500 Hayes St	Btw Octavia & Laguna	1.4% Slope	7516   	Pct 7516	7516   		10  
+2022NOVGEN	3694	9414 - 2226 Kirkham St		Garage	2226 Kirkham St	Btw 26th & 27th Ave	2.3% Slope	9414   	Pct 9414	9414   		24  
+2022NOVGEN	3707	7927 - 151 Peralta Ave		Garage	151 Peralta Ave	Btw York & Florida St	2.2% Slope	7927   	Pct 7927	7927   		17  
+2022NOVGEN	3710	7719 - 295 Valdez Ave		Garage	295 Valdez Ave	Btw Mangels Ave & Monterey Blvd	7.8% Slope	7719   	Pct 7719	7719   		15  
+2022NOVGEN	3712	7643 - 301 Main St		The Infinity	301 Main St	Btw Folsom & Harrison St	4.5% Slope	7643   	Pct 7643	7643   		12  
+2022NOVGEN	3718	9443 - 2700 45th Ave		United Irish Cultural Center	2700 45th Ave	Btw Sloat & Wawona	0.8% Slope	9443   	Pct 9443	9443   		24  
+2022NOVGEN	3724	7322 - 1362 Sacramento St		Garage	1362 Sacramento St	Btw Jones & Leavenworth	4.3% Slope	7322   	Pct 7322	7322   		8  
+2022NOVGEN	3726	1126 - 37 Rudden Ave		Garage	37 Rudden Ave	Btw Otsego & Delano	4.4% Slope	1126   	Pct 1126	1126   		2  
+2022NOVGEN	3735	7631 - 151 3rd St		Museum Of Modern Art - Atrium	151 3rd St	Btw Minna & Natoma	0.8% Slope	7631   	Pct 7631	7631   		12  
+2022NOVGEN	3739	7804 - 2286 15th St		Garage	2286 15th St	Btw Castro & Noe	1.9% Slope	7804   	Pct 7804	7804   		16  
+2022NOVGEN	3740	7833 - 368 Jersey St		Garage	368 Jersey St	Btw Castro & Noe	3.5% Slope	7833   	Pct 7833	7833   		16  
+2022NOVGEN	3743	7845 - 181 27th St		Garage	181 27th St	Btw Dolores & Guerrero	4.4% Slope	7845   	Pct 7845	7845   		16  
+2022NOVGEN	3751	9145 - 2975 Turk St		Koret Center - Gymnasium	2975 Turk Blvd	Enter At Turk & Stanyan	5.6% Slope	9145   	Pct 9145	9145   		19  
+2022NOVGEN	3755	9428 - 2142 47th Ave		Garage	2142 47th Ave	Btw Quintara & Riviera St	4.3% Slope	9428   	Pct 9428	9428   		24  
+2022NOVGEN	3756	9432 - 2275 32nd Ave		Garage	2275 32nd Ave	Btw Santiago & Taraval	6.7% Slope	9432   	Pct 9432	9432   		24  
+2022NOVGEN	3770	7812 - 48 Pond St		Garage	48 Pond St	Btw Jose Sarria CT & 17th St	2.0% Slope	7812   	Pct 7812	7812   		16  
+2022NOVGEN	3772	9724 - 200 Denslowe Dr		Garage	200 Denslowe Dr	Enter On Holloway Btw Denslowe & 19th Ave	6.4% Slope	9724   	Pct 9724	9724   		27  
+2022NOVGEN	3773	9715 - 2007 15th Ave		Garage	2007 15th Ave	Btw Pacheco & Quintara	7.0% Slope	9715   	Pct 9715	9715   		27  
+2022NOVGEN	3774	7506 - 1449 Webster St		Success Centers San Francisco - Lobby	1449 Webster St	Enter Off Fillmore Btw Geary & O' Farrell	1.3% Slope	7506   	Pct 7506	7506   		10  
+2022NOVGEN	3775	7837 - 455 Fair Oaks St		Holy Innocents' Episcopal Church - Sanctuary	455 Fair Oaks St	Btw 25th & 26th Sts	8.0% Slope - Ramped Access	7837   	Pct 7837	7837   		16  
+2022NOVGEN	3777	1144 - 99 Pope St		Garage	99 Pope St	Btw Hollywood & Cross	1.8% Slope	1144   	Pct 1144	1144   		3  
+2022NOVGEN	3784	9126 - 487 19th Ave		Garage	487 19th Ave	Btw Geary & Anza	5.0% Slope	9126   	Pct 9126	9126   		19  
+2022NOVGEN	3786	1115 - 25 Lessing St		Garage	25 Lessing St	Btw Liebig & Cul de Sac	1.6% Slope	1115   	Pct 1115	1115   		2  
+2022NOVGEN	3788	1112 - 114 Lee Ave		Garage	114 Lee Ave	Btw Grafton & Holloway	3.3% Slope	1112   	Pct 1112	1112   		2  
+2022NOVGEN	3791	7002 - 75 Arkansas St		California College For The Arts - Blattner Hall M. P. Room	75 Arkansas St	Btw 16th & 17th Sts	8.2% Slope - Ramped Entrance	7002   	Pct 7002	7002   		4  
+2022NOVGEN	3792	7808 - 139 Corbett Ave		Garage	139 Corbett Ave	Btw Hattie & Danvers	5.1% Slope	7808   	Pct 7808	7808   		16  
+2022NOVGEN	3794	9418 - 1750 36th Ave		Garage	1750 36th Ave	Btw Moraga & Noriega	4.9% slope	9418   	Pct 9418	9418   		24  
+2022NOVGEN	3798	9441 - 1722 Taraval St		Rolling Out Cafe	1722 Taraval St	Btw 27th & 28th Aves	6.0% Slope	9441   	Pct 9441	9441   		24  
+2022NOVGEN	3804	9806 - 1051 Ashbury St		Garage	1051 Ashbury St	Btw Downey & Clayton	0.4% Slope	9806   	Pct 9806	9806   		30  
+2022NOVGEN	3807	9438 - 3004 Taraval St		Far Out Gallery	3004 Taraval St	Btw 40th & 41st Aves	2.8% Slope	9438   	Pct 9438	9438   		24  
+2022NOVGEN	3809	9713 - 1736 9th Ave		Garage	1736 9th Ave	Btw Moraga & Noriega	5.5% Slope	9713   	Pct 9713	9713   		27  
+2022NOVGEN	3810	9405 - 2548 Judah St		B Cooperative Design	2548 Judah St	Btw 30th & 31st Aves	7.9% slope	9405   	Pct 9405	9405   		24  
+2022NOVGEN	3813	9714 - 590 Oak Park Dr		Garage	590 Oak Park Dr	Cul de Sac off Devonshire	6.4% Slope	9714   	Pct 9714	9714   		28  
+2022NOVGEN	3814	9132 - 590 5th Ave		Garage	590 5th Ave	Btw Balboa & Anza	1.0% Slope	9132   	Pct 9132	9132   		19  
+2022NOVGEN	3815	7836 - 286 Fair Oaks St		Garage	286 Fair Oaks St	Btw 23rd & 24th Sts	3% Slope	7836   	Pct 7836	7836   		16  
+2022NOVGEN	3816	9804 - 954 Stanyan St		Garage	954 Stanyan St	Btw Carl & Frederick	1.8% slope	9804   	Pct 9804	9804   		30  
+2022NOVGEN	3818	7023 - 1722 Quesada Ave		Garage	1722 Quesada Ave	Btw 3rd & Newhall	1.3% Slope	7023   	Pct 7023	7023   		4  
+2022NOVGEN	3819	7019 - 825 Newhall St		St John Baptist Church - Dining Hall	825 Newhall St	Btw Jerrold & Innes	0.1% Slope	7019   	Pct 7019	7019   		4  
+2022NOVGEN	3820	7943 - 224 Hale St		Garage	224 Hale St	Btw Merrill & Boylston	3.0% Slope	7943   	Pct 7943	7943   		18  
+2022NOVGEN	3823	9412 - 2935 Judah St		Garage	2935 Judah St	Btw 34th & 35th Aves	7.1% Slope	9412   	Pct 9412	9412   		24  
+2022NOVGEN	3824	9407 - 1239 19th Ave		Garage	1239 19th Ave	Btw Irving & Lincoln	0.7% Slope	9407   	Pct 9407	9407   		24  
+2022NOVGEN	3825	7333 - 750 Post St		Goodwill Career Center	750 Post St	Btw Leavenworth & Jones	6.3% Slope	7333   	Pct 7333	7333   		8  
+2022NOVGEN	3827	7925 - 45 29th St		Garage	45 29th St	Btw Mission & Tiffany	2.3% Slope	7925   	Pct 7925	7925   		17  
+2022NOVGEN	3829	9133 - 800 Great Hwy		M K Think	800 Great Hwy	Enter Off Plaza At Cabrillo & Great Hwy	5.5% Slope	9133   	Pct 9133	9133   		19  
+2022NOVGEN	3830	7822 - 515 Noe St		Garage	515 Noe St	Btw 18th St & Hancock	2.7% Slope	7822   	Pct 7822	7822   		16  
+2022NOVGEN	3836	1117 - 172 Louisburg St		Garage	172 Louisburg St	Btw Geneva & Niagara	5.3% Slope	1117   	Pct 1117	1117   		2  
+2022NOVGEN	3837	1123 - 5050 Mission St		Self Help For The Elderly - Geneva Community Center	5050 C Mission St	Btw Seneca & Amazon	0.5% Slope	1123   	Pct 1123	1123   		2  
+2022NOVGEN	3838	1135 - 390 Harvard St		Garage	390 Harvard St	Enter On Harvard At Burrows	2.5% Slope	1135   	Pct 1135	1135   		3  
+2022NOVGEN	3839	1136 - 342 London St		Garage	342 London St	Btw Persia & Brazil	3.1% slope	1136   	Pct 1136	1136   		3  
+2022NOVGEN	3842	7003 - 693 Vermont St		Downtown High School - Cafeteria	693 Vermont St	Btw 18th & 19th St	6.0% Slope	7003   	Pct 7003	7003   		4  
+2022NOVGEN	3844	7011 - 1207 San Bruno Ave		Garage	1207 San Bruno Ave	Btw 23rd & 24th Sts	5.9% Slope	7011   	Pct 7011	7011   		4  
+2022NOVGEN	3845	7012 - 798 Wisconsin St (loc 7007)		Firehouse #37	798 Wisconsin St	Btw 20th & 22nd Sts	7.4% Slope	7012   	Pct 7012	7012   		4  
+2022NOVGEN	3847	7018 - 1733 Oakdale Ave		Garage	1733 Oakdale Ave	Btw Newhall & Phelps	1.7% Slope	7018   	Pct 7018	7018   		4  
+2022NOVGEN	3848	7022 - 126 Bridgeview Dr		Garage	126 Bridgeview Dr	Btw Topeka & Newhall	3.4% Slope	7022   	Pct 7022	7022   		4  
+2022NOVGEN	3849	7025 - 11 Carpenter Ct		Garage	11 Carpenter Ct	Enter On Carpenter At Whitney Young Cir	5.7% Slope	7025   	Pct 7025	7025   		4  
+2022NOVGEN	3851	7032 - 1435 Shafter Ave		Garage	1435 Shafter Ave	Btw Jennings & Keith	2.3% Slope	7032   	Pct 7032	7032   		4  
+2022NOVGEN	3854	7054 - 840 Jamestown Ave		Garage	840 Jamestown Ave	Btw Griffith & Hawes	5.0% Slope	7054   	Pct 7054	7054   		4  
+2022NOVGEN	3855	7205 - 900 Baker St (loc 9236)		St John Serbian Orthodox Cathedral - Conference Rm	900 Baker St	Enter At Corner Of Baker & Turk	8.1% Slope - Ramped Access	7205   	Pct 7205	7205   		6  
+2022NOVGEN	3860	7601 - 27a Van Ness Ave		San Francisco Real Estate Division	27 A Van Ness Ave	Btw Hickory & Oak	2% Slope	7601   	Pct 7601	7601   		12  
+2022NOVGEN	3861	7604 - 49 S Van Ness Ave		S F Department Of Public Works - Forum Gallery	49 S Van Ness Ave	Btw Market & Mission	4.3% Slope	7604   	Pct 7604	7604   		12  
+2022NOVGEN	3863	7611 - 345 7th St (loc 7616)		St Michael Ukrainian Orthodox Church - Main Hallway	345 7th St	Enter On Cleveland Btw 7th St & Sherman	3.7% Slope	7611   	Pct 7611	7611   		12  
+2022NOVGEN	3867	7626 - 133 Shipley St		Salvation Army Silvercrest Residence - Lobby	133 Shipley St	Btw 4th & 5th Sts	5.0% Slope	7626   	Pct 7626	7626   		12  
+2022NOVGEN	3869	7633 - 200 Brannan St		A F I Real Estate - Lobby	200 Brannan St, Suite 100	Corner Of Brannan & Delancey	1.8% Slope	7633   	Pct 7633	7633   		12  
+2022NOVGEN	3872	7929 - 348 Precita Ave		Precita Eyes Studio	348 Precita Ave	Btw Treat & Folsom	8.3% Slope	7929   	Pct 7929	7929   		17  
+2022NOVGEN	3874	9119 - 527 47th Ave		Garage	527 47th Ave	Btw Geary Blvd & Anza St	1.0% Slope	9119   	Pct 9119	9119   		19  
+2022NOVGEN	3875	9127 - 482 16th Ave		Garage	482 16th Ave	Btw Anza & Geary	8.1% Slope	9127   	Pct 9127	9127   		19  
+2022NOVGEN	3876	9204 - 49 Casa Way		Garage	49 Casa Way	Btw Marina Blvd & Retiro Way	2.3% Slope	9204   	Pct 9204	9204   		21  
+2022NOVGEN	3877	9223 - 2021 Pacific Ave		Garage	2021 Pacific Ave	Btw Laguna & Octavia	4.7% Slope	9223   	Pct 9223	9223   		21  
+2022NOVGEN	3878	9226 - 3565 Washington St		Garage	3565 Washington St	Btw Locust & Laurel	4.8% Slope	9226   	Pct 9226	9226   		21  
+2022NOVGEN	3883	9417 - 1679 37th Ave		Garage	1679 37th Ave	Btw Moraga & Lawton	7.5% Slope - Curb Ramp Access	9417   	Pct 9417	9417   		24  
+2022NOVGEN	3884	9422 - 1778 23rd Ave		Garage	1778 23rd Ave	Btw Moraga & Noriega	4.9% Slope	9422   	Pct 9422	9422   		24  
+2022NOVGEN	3885	9429 - 2143 42nd Ave		Garage	2143 42nd Ave	Btw Quintata & Rivera	4.8% Slope	9429   	Pct 9429	9429   		24  
+2022NOVGEN	3886	9431 - 2186 36th Ave		Garage	2186 36th Ave	Btw Rivera & Ortega	7.3% Slope -  Curb Ramp Access	9431   	Pct 9431	9431   		24  
+2022NOVGEN	3887	9434 - 2111 21st Ave		Garage	2111 21st Ave	Btw Quintara & Rivera Sts	1.9% Slope	9434   	Pct 9434	9434   		24  
+2022NOVGEN	3888	9437 - 2458 41st Ave		Garage	2458 41st Ave	Btw Taraval & Ulloa	7.7% Slope - Curb Ramp Access	9437   	Pct 9437	9437   		24  
+2022NOVGEN	3891	9506 - 1250 Haight St		Buena Vista Terrace - Community Room	1250 Haight St	Btw Central & Lyon	0.3% Slope	9506   	Pct 9506	9506   		25  
+2022NOVGEN	3894	9718 - 2489 16th Ave		Garage	2489 16th Ave	Btw Taraval & Ulloa	3.6% Slope	9718   	Pct 9718	9718   		27  
+2022NOVGEN	3897	7618 -  420 Berry St		Crescent Cove / Avanath - Community Room	420 Berry St	Btw Mission Bay & King	8.1% slope - ramped access	7618   	Pct 7618	7618   		12  
+2022NOVGEN	3898	9447 - 2579 27th Ave		Garage	2579 27th Ave	Btw Vicente & Ulloa	6.0% Slope	9447   	Pct 9447	9447   		24  
+2022NOVGEN	3899	7608 - 1155 Market St		Lighthouse For The Blind - 10th Floor - Rm 1020 B	1155 Market St	Btw 7th & 8th Sts	2.1% Slope	7608   	Pct 7608	7608   		12  
+2022NOVGEN	3900	7625 - 320 Clementina St		Clementina Towers - Community Room	320 Clementina St	Btw 4th & 5th Sts	3.9% Slope	7625   	Pct 7625	7625   		12  
+2022NOVGEN	3902	9451 - 410 Gellert Drive		Garage	410 Gellert Dr	Btw Clearfield & Everglade	4.6% Slope	9451   	Pct 9451	9451   		24  
+2022NOVGEN	3903	7312 - 610 Vallejo St		Shrine Of St. Francis Of Assisi Church - Lower Hall	610 Vallejo St	Btw Columbus & Grant	4.4% Slope	7312   	Pct 7312	7312   		8  
+2022NOVGEN	3906	7629 - 1275 3rd St		S F F D Arson Community Center	1275 3rd St	Btw China Basin & Mission Rock	4.4% Slope - Ramped Access	7629   	Pct 7629	7629   		12  
+2022NOVGEN	3907	1125 - 4754 Mission St		T S Cafe	4754 Mission St	Btw Leo & Russia	7.2% Slope	1125   	Pct 1125	1125   		2  
+2022NOVGEN	3908	9102 - 3119 Clement St		El Mansour Restaurant	3119 Clement St	Btw 32nd & 33rd Ave	1.5% slope	9102   	Pct 9102	9102   		19  
+2022NOVGEN	3913	7524 - 835 O' Farrell St (loc 7526)		Hotel Iroquois - Community Room	835 O' Farrell St	Btw Larkin & Polk	1.7% Slope	7524   	Pct 7524	7524   		11  
+2022NOVGEN	3914	7013 - 1101 Connecticut St (loc 7016)		Potrero Terrace - Community Room	1101 Connecticut St	Btw 25th & 26th Sts	0.6% Slope	7013   	Pct 7013	7013   		4  
+2022NOVGEN	3916	7949 - 809 Goettingen St		Garage	809 Goettingen St	Btw Olmstead & Mansell Sts	4.2% Slope	7949   	Pct 7949	7949   		18  

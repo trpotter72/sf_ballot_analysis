@@ -1,0 +1,4 @@
+*.zip
+CVR_Export/
+.DS_Store
+.ipynb_checkpoints/
